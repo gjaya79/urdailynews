@@ -1,0 +1,6500 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Marroco\n"
+"POT-Creation-Date: 2014-06-19 12:55+0200\n"
+"PO-Revision-Date: 2014-06-19 13:17+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16
+msgid "Oops! The page was not found."
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"This may be because of a mistyped URL, faulty referral or out-of-date search "
+"engine listing. You should try the "
+msgstr ""
+
+#: 404.php:21
+msgid "homepage"
+msgstr ""
+
+#: 404.php:22
+msgid "instead or maybe do a search?"
+msgstr ""
+
+#: archive.php:28
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:34
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:37
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:40
+msgid "Asides"
+msgstr ""
+
+#: archive.php:43 bw/core/Bw_post_type_gallery.php:33
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:46
+msgid "Images"
+msgstr ""
+
+#: archive.php:49
+msgid "Videos"
+msgstr ""
+
+#: archive.php:52
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:55
+msgid "Links"
+msgstr ""
+
+#: archive.php:58
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:61
+msgid "Audios"
+msgstr ""
+
+#: archive.php:64
+msgid "Chats"
+msgstr ""
+
+#: archive.php:67 sidebar.php:26
+msgid "Archives"
+msgstr ""
+
+#: bw/core/Bw.php:108
+msgid "Posts navigation"
+msgstr ""
+
+#: bw/core/Bw.php:112 bw/core/Bw.php:116
+msgid "<span class=\"meta-nav\"><span class=\"after\">&nbsp;</span></span>"
+msgstr ""
+
+#: bw/core/Bw.php:177
+msgid "Post navigation"
+msgstr ""
+
+#: bw/core/Bw.php:180
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: bw/core/Bw.php:181
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker.php:193
+msgid "No posts added to the category slider in this category"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker.php:242
+msgid "Read More"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker_edit.php:44
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:420
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:470
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:474
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:478
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:482
+msgid "Default"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker_edit.php:45
+msgid "Latest Posts"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker_edit.php:46
+msgid "Slider + Latest Posts"
+msgstr ""
+
+#: bw/core/Bw_megamenu_walker_edit.php:50
+msgid "Select MegaMenu Layout:"
+msgstr ""
+
+#: bw/core/Bw_post_type_gallery.php:22 bw/core/Bw_post_type_gallery.php:23
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:50
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:208
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2212
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4675
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:156
+msgid "Gallery"
+msgstr ""
+
+#: bw/core/Bw_post_type_gallery.php:24 bw/core/Bw_post_type_portfolio.php:24
+#: bw/lib/acf/acf.php:487
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:537
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1063
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1754
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1919
+msgid "Add New"
+msgstr ""
+
+#: bw/core/Bw_post_type_gallery.php:25
+msgid "Add New Gallery"
+msgstr ""
+
+#: bw/core/Bw_post_type_gallery.php:26
+#: bw/lib/option-tree/includes/ot-functions-admin.php:660
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:984
+msgid "Edit Gallery"
+msgstr ""
+
+#: bw/core/Bw_post_type_gallery.php:27
+msgid "New Gallery"
+msgstr ""
+
+#: bw/core/Bw_post_type_gallery.php:28
+msgid "All Galleries"
+msgstr ""
+
+#: bw/core/Bw_post_type_gallery.php:29
+msgid "View Gallery"
+msgstr ""
+
+#: bw/core/Bw_post_type_gallery.php:30
+msgid "Search Galleries"
+msgstr ""
+
+#: bw/core/Bw_post_type_gallery.php:31
+msgid "No Gallery found"
+msgstr ""
+
+#: bw/core/Bw_post_type_gallery.php:32
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: bw/core/Bw_post_type_portfolio.php:22 bw/core/Bw_post_type_portfolio.php:23
+msgid "Portfolio"
+msgstr ""
+
+#: bw/core/Bw_post_type_portfolio.php:25
+msgid "Add New Portfolio"
+msgstr ""
+
+#: bw/core/Bw_post_type_portfolio.php:26
+msgid "Edit Portfolio"
+msgstr ""
+
+#: bw/core/Bw_post_type_portfolio.php:27
+msgid "New Portfolio"
+msgstr ""
+
+#: bw/core/Bw_post_type_portfolio.php:28
+msgid "All Projects"
+msgstr ""
+
+#: bw/core/Bw_post_type_portfolio.php:29
+msgid "View Portfolio"
+msgstr ""
+
+#: bw/core/Bw_post_type_portfolio.php:30
+msgid "Search Projects"
+msgstr ""
+
+#: bw/core/Bw_post_type_portfolio.php:31
+msgid "No Portfolio found"
+msgstr ""
+
+#: bw/core/Bw_post_type_portfolio.php:32
+msgid "No Portfolio found in Trash"
+msgstr ""
+
+#: bw/core/Bw_post_type_portfolio.php:33
+msgid "Projects"
+msgstr ""
+
+#: bw/core/Bw_required_plugins.php:76
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+#: bw/core/Bw_required_plugins.php:77
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: bw/core/Bw_required_plugins.php:78
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: bw/core/Bw_required_plugins.php:79
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: bw/core/Bw_required_plugins.php:80
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:200
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:81
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:201
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:82
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:202
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:83
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:203
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:84
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:204
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:85
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:205
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:86
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:206
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:87
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:207
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:88
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:208
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:89
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/core/Bw_required_plugins.php:90
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: bw/core/Bw_required_plugins.php:91
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:212
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1948
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: bw/core/Bw_required_plugins.php:92
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: bw/core/Bw_setup.php:47
+msgid "Primary Menu"
+msgstr ""
+
+#: bw/core/Bw_setup.php:53
+msgid "Top Left Menu"
+msgstr ""
+
+#: bw/core/Bw_setup.php:59
+msgid "Top Right Menu"
+msgstr ""
+
+#: bw/core/Bw_setup.php:65
+msgid "Footer bottom menu"
+msgstr ""
+
+#: bw/core/Bw_taxonomy_gallery_categories.php:13
+msgid "Gallery category"
+msgstr ""
+
+#: bw/core/Bw_taxonomy_portfolio_categories.php:13
+msgid "Portfolio categories"
+msgstr ""
+
+#: bw/core/Bw_updater.php:60
+#, php-format
+msgid ""
+"To enable theme update notifications, please enter your Envato Marketplace "
+"credentials in the %s"
+msgstr ""
+
+#: bw/core/Bw_updater.php:66
+#, php-format
+msgid "An update to the theme is available! Head over to %s to update it now."
+msgstr ""
+
+#: bw/core/Bw_widgets.php:44
+msgid "Sidebar"
+msgstr ""
+
+#: bw/core/Bw_widgets.php:56
+msgid "Footer column 1"
+msgstr ""
+
+#: bw/core/Bw_widgets.php:68
+msgid "Footer column 2"
+msgstr ""
+
+#: bw/core/Bw_widgets.php:80
+msgid "Footer column 3"
+msgstr ""
+
+#: bw/core/Bw_widgets.php:94
+msgid "E-commerce sidebar"
+msgstr ""
+
+#: bw/core/Bw_widgets_latest_reviews.php:8
+msgid "BW Latest Reviews"
+msgstr ""
+
+#: bw/core/Bw_widgets_latest_reviews.php:9
+msgid "Display the latest posts with reviews"
+msgstr ""
+
+#: bw/core/Bw_widgets_latest_reviews.php:81
+msgid "Latest Reviews"
+msgstr ""
+
+#: bw/core/Bw_widgets_latest_reviews.php:86
+#: bw/lib/acf/core/controllers/field_groups.php:147
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3820
+#: bw/lib/option-tree/includes/ot-meta-box-api.php:223
+#: bw/lib/option-tree/includes/ot-settings-api.php:595
+#: bw/lib/shortcode-generator/shortcode-definitions.php:102
+#: bw/lib/shortcode-generator/shortcode-definitions.php:131
+msgid "Title"
+msgstr ""
+
+#: bw/core/Bw_widgets_latest_reviews.php:90
+msgid "Number of reviews to show:"
+msgstr ""
+
+#: bw/core/Bw_widgets_popular_posts.php:9
+msgid "BW Popular Posts"
+msgstr ""
+
+#: bw/core/Bw_widgets_popular_posts.php:10
+msgid "BW Popular posts"
+msgstr ""
+
+#: bw/core/Bw_widgets_popular_posts.php:75
+#: bw/core/Bw_widgets_recent_posts_slider.php:84
+msgid "Title:"
+msgstr ""
+
+#: bw/core/Bw_widgets_popular_posts.php:80
+#: bw/core/Bw_widgets_recent_posts_slider.php:89
+msgid "Number of posts (between 1 and 10):"
+msgstr ""
+
+#: bw/core/Bw_widgets_popular_posts.php:85
+msgid "Categories (leave empty for all categories):"
+msgstr ""
+
+#: bw/core/Bw_widgets_recent_comments.php:31
+msgid "Recent Comments"
+msgstr ""
+
+#: bw/core/Bw_widgets_recent_posts.php:15
+msgid "Recent Posts"
+msgstr ""
+
+#: bw/core/Bw_widgets_recent_posts_slider.php:9
+msgid "BW Recent Posts Slider"
+msgstr ""
+
+#: bw/core/Bw_widgets_recent_posts_slider.php:10
+msgid "BW slider widget"
+msgstr ""
+
+#: bw/core/Bw_widgets_recent_posts_slider.php:96
+msgid "Category (leave empty for all categories):"
+msgstr ""
+
+#: bw/core/Bw_woocommerce.php:130 templates/woocommerce/cart.php:3
+msgid "View your shopping cart"
+msgstr ""
+
+#: bw/core/Bw_woocommerce.php:130 templates/woocommerce/cart.php:3
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/lib/acf/acf.php:485
+msgid "Field&nbsp;Groups"
+msgstr ""
+
+#: bw/lib/acf/acf.php:486 bw/lib/acf/core/controllers/field_groups.php:214
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: bw/lib/acf/acf.php:488
+msgid "Add New Field Group"
+msgstr ""
+
+#: bw/lib/acf/acf.php:489
+msgid "Edit Field Group"
+msgstr ""
+
+#: bw/lib/acf/acf.php:490
+msgid "New Field Group"
+msgstr ""
+
+#: bw/lib/acf/acf.php:491
+msgid "View Field Group"
+msgstr ""
+
+#: bw/lib/acf/acf.php:492
+msgid "Search Field Groups"
+msgstr ""
+
+#: bw/lib/acf/acf.php:493
+msgid "No Field Groups found"
+msgstr ""
+
+#: bw/lib/acf/acf.php:494
+msgid "No Field Groups found in Trash"
+msgstr ""
+
+#: bw/lib/acf/acf.php:579 bw/lib/acf/core/views/meta_box_options.php:99
+msgid "Custom Fields"
+msgstr ""
+
+#: bw/lib/acf/acf.php:597 bw/lib/acf/acf.php:600
+msgid "Field group updated."
+msgstr ""
+
+#: bw/lib/acf/acf.php:598
+msgid "Custom field updated."
+msgstr ""
+
+#: bw/lib/acf/acf.php:599
+msgid "Custom field deleted."
+msgstr ""
+
+#. translators: %s: date and time of the revision
+#: bw/lib/acf/acf.php:602
+#, php-format
+msgid "Field group restored to revision from %s"
+msgstr ""
+
+#: bw/lib/acf/acf.php:603
+msgid "Field group published."
+msgstr ""
+
+#: bw/lib/acf/acf.php:604
+msgid "Field group saved."
+msgstr ""
+
+#: bw/lib/acf/acf.php:605
+msgid "Field group submitted."
+msgstr ""
+
+#: bw/lib/acf/acf.php:606
+msgid "Field group scheduled for."
+msgstr ""
+
+#: bw/lib/acf/acf.php:607
+msgid "Field group draft updated."
+msgstr ""
+
+#: bw/lib/acf/acf.php:742
+msgid "Thumbnail"
+msgstr ""
+
+#: bw/lib/acf/acf.php:743
+msgid "Medium"
+msgstr ""
+
+#: bw/lib/acf/acf.php:744
+msgid "Large"
+msgstr ""
+
+#: bw/lib/acf/acf.php:745
+msgid "Full"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:22
+#: bw/lib/acf/core/controllers/field_groups.php:453
+msgid "Flexible Content"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:23
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:513
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:530
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:23
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:428
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:640
+#: bw/lib/acf/core/fields/checkbox.php:183
+#: bw/lib/acf/core/fields/message.php:20 bw/lib/acf/core/fields/radio.php:212
+#: bw/lib/acf/core/fields/tab.php:20
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3781
+msgid "Layout"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:86
+msgid "Flexible Content requires at least 1 layout"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:188
+msgid "+ Add Row"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:492
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:160
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:405
+msgid "Add Row"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:522
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:420
+#: bw/lib/acf/core/views/meta_box_fields.php:24
+msgid "New Field"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:523
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:421
+msgid "new_field"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:532
+msgid "Reorder Layout"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:532
+msgid "Reorder"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:533
+msgid "Delete Layout"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:533
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:622
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:474
+#: bw/lib/acf/core/views/meta_box_fields.php:111
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3429
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3430
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3498
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3499
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3661
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3662
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3727
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3728
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3786
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3787
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3855
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3856
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3989
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3990
+msgid "Delete"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:537
+msgid "Add New Layout"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:538
+msgid "Duplicate Layout"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:538
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:621
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:473
+#: bw/lib/acf/core/views/meta_box_fields.php:110
+msgid "Duplicate"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:548
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3668
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:29
+msgid "Label"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:558
+#: bw/lib/acf/core/controllers/field_groups.php:420
+#: bw/lib/acf/core/fields/file.php:109
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2928 comments.php:79
+#: woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:568
+msgid "Display"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:575
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:651
+msgid "Row"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:576
+msgid "Table"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:589
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:441
+#: bw/lib/acf/core/views/meta_box_fields.php:74
+msgid "Field Order"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:590
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:637
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:442
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:490
+#: bw/lib/acf/core/views/meta_box_fields.php:75
+#: bw/lib/acf/core/views/meta_box_fields.php:127
+msgid "Field Label"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:591
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:653
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:443
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:506
+#: bw/lib/acf/core/views/meta_box_fields.php:76
+#: bw/lib/acf/core/views/meta_box_fields.php:143
+msgid "Field Name"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:592
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:668
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:444
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:521
+#: bw/lib/acf/core/fields/taxonomy.php:312 bw/lib/acf/core/fields/user.php:298
+#: bw/lib/acf/core/views/meta_box_fields.php:77
+#: bw/lib/acf/core/views/meta_box_fields.php:159
+msgid "Field Type"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:600
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:452
+msgid ""
+"No fields. Click the \"+ Add Sub Field button\" to create your first field."
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:616
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:619
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:468
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:471
+#: bw/lib/acf/core/views/meta_box_fields.php:105
+#: bw/lib/acf/core/views/meta_box_fields.php:108
+msgid "Edit this Field"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:619
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:471
+#: bw/lib/acf/core/fields/image.php:84
+#: bw/lib/acf/core/views/meta_box_fields.php:108
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3427
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3495
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3496
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3658
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3659
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3724
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3725
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3852
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3853
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3986
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3987
+#: woocommerce/myaccount/my-address.php:45
+msgid "Edit"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:620
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:472
+#: bw/lib/acf/core/views/meta_box_fields.php:109
+msgid "Read documentation for this field"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:620
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:472
+#: bw/lib/acf/core/views/meta_box_fields.php:109
+msgid "Docs"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:621
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:473
+#: bw/lib/acf/core/views/meta_box_fields.php:110
+msgid "Duplicate this Field"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:622
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:474
+#: bw/lib/acf/core/views/meta_box_fields.php:111
+msgid "Delete this Field"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:638
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:491
+#: bw/lib/acf/core/views/meta_box_fields.php:128
+msgid "This is the name which will appear on the EDIT page"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:654
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:507
+#: bw/lib/acf/core/views/meta_box_fields.php:144
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:683
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:536
+#: bw/lib/acf/core/views/meta_box_fields.php:173
+msgid "Field Instructions"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:703
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:556
+msgid "Column Width"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:704
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:557
+msgid "Leave blank for auto"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:734
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:589
+#: bw/lib/acf/core/views/meta_box_fields.php:304
+msgid "Close Field"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:734
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:589
+msgid "Close Sub Field"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:748
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:604
+#: bw/lib/acf/core/views/meta_box_fields.php:317
+msgid "Drag and drop to reorder"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:749
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:605
+msgid "+ Add Sub Field"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-flexible-content/flexible-content.php:756
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:659
+msgid "Button Label"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:22
+msgid "Repeater"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:433
+msgid "Repeater Fields"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:584
+msgid "Save Field"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:612
+msgid "Minimum Rows"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:626
+msgid "Maximum Rows"
+msgstr ""
+
+#: bw/lib/acf/add-ons/acf-repeater/repeater.php:650
+msgid "Table (default)"
+msgstr ""
+
+#: bw/lib/acf/core/actions/export.php:26
+#: bw/lib/acf/core/views/meta_box_fields.php:58
+msgid "Error"
+msgstr ""
+
+#: bw/lib/acf/core/actions/export.php:33
+msgid "No ACF groups selected"
+msgstr ""
+
+#: bw/lib/acf/core/api.php:1171
+msgid "Update"
+msgstr ""
+
+#: bw/lib/acf/core/api.php:1172
+msgid "Post updated"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:42
+#: bw/lib/acf/core/controllers/field_groups.php:307
+msgid "Add-ons"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:130
+#: bw/lib/acf/core/controllers/field_groups.php:429
+msgid "Repeater Field"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:131
+msgid "Create infinite rows of repeatable data with this versatile interface!"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:137
+#: bw/lib/acf/core/controllers/field_groups.php:437
+msgid "Gallery Field"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:138
+msgid "Create image galleries in a simple and intuitive interface!"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:144
+#: bw/lib/acf/core/controllers/field_groups.php:445
+msgid "Options Page"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:145
+msgid "Create global data to use throughout your website!"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:151
+msgid "Flexible Content Field"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:152
+msgid "Create unique designs with a flexible content layout manager!"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:161
+msgid "Gravity Forms Field"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:162
+msgid "Creates a select field populated with Gravity Forms!"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:168
+msgid "Date & Time Picker"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:169
+msgid "jQuery date & time picker"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:175
+msgid "Location Field"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:176
+msgid "Find addresses and coordinates of a desired location"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:182
+msgid "Contact Form 7 Field"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:183
+msgid "Assign one or more contact form 7 forms to a post"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:193
+msgid "Advanced Custom Fields Add-Ons"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:196
+msgid ""
+"The following Add-ons are available to increase the functionality of the "
+"Advanced Custom Fields plugin."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:197
+msgid ""
+"Each Add-on can be installed as a separate plugin (receives updates) or "
+"included in your theme (does not receive updates)."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:219
+#: bw/lib/acf/core/controllers/addons.php:240
+msgid "Installed"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:221
+msgid "Purchase & Install"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/addons.php:242
+#: bw/lib/acf/core/controllers/field_groups.php:422
+#: bw/lib/acf/core/controllers/field_groups.php:431
+#: bw/lib/acf/core/controllers/field_groups.php:439
+#: bw/lib/acf/core/controllers/field_groups.php:447
+#: bw/lib/acf/core/controllers/field_groups.php:455
+#: woocommerce/emails/email-order-items.php:48
+#: woocommerce/emails/plain/email-order-items.php:48
+msgid "Download"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:50
+#: bw/lib/acf/core/controllers/export.php:159
+#: bw/lib/option-tree/includes/ot-functions-admin.php:143
+msgid "Export"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:216
+msgid "Export Field Groups"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:221
+msgid "Field Groups"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:222
+msgid "Select the field groups to be exported"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:239
+#: bw/lib/acf/core/controllers/export.php:252
+msgid "Export to XML"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:242
+#: bw/lib/acf/core/controllers/export.php:267
+msgid "Export to PHP"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:253
+msgid ""
+"ACF will create a .xml export file which is compatible with the native WP "
+"import plugin."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:254
+msgid ""
+"Imported field groups <b>will</b> appear in the list of editable field "
+"groups. This is useful for migrating fields groups between Wp websites."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:256
+msgid "Select field group(s) from the list and click \"Export XML\""
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:257
+msgid "Save the .xml file when prompted"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:258
+msgid "Navigate to Tools &raquo; Import and select WordPress"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:259
+msgid "Install WP import plugin if prompted"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:260
+msgid "Upload and import your exported .xml file"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:261
+msgid "Select your user and ignore Import Attachments"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:262
+msgid "That's it! Happy WordPressing"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:268
+msgid "ACF will create the PHP code to include in your theme."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:269
+#: bw/lib/acf/core/controllers/export.php:310
+msgid ""
+"Registered field groups <b>will not</b> appear in the list of editable field "
+"groups. This is useful for including fields in themes."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:270
+#: bw/lib/acf/core/controllers/export.php:311
+msgid ""
+"Please note that if you export and register field groups within the same WP, "
+"you will see duplicate fields on your edit screens. To fix this, please move "
+"the original field group to the trash or remove the code from your functions."
+"php file."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:272
+msgid "Select field group(s) from the list and click \"Create PHP\""
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:273
+#: bw/lib/acf/core/controllers/export.php:302
+msgid "Copy the PHP code generated"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:274
+#: bw/lib/acf/core/controllers/export.php:303
+msgid "Paste into your functions.php file"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:275
+#: bw/lib/acf/core/controllers/export.php:304
+msgid "To activate any Add-ons, edit and use the code in the first few lines."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:295
+msgid "Export Field Groups to PHP"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:300
+#: bw/lib/acf/core/fields/tab.php:65
+msgid "Instructions"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:309
+msgid "Notes"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:316
+msgid "Include in theme"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:317
+msgid ""
+"The Advanced Custom Fields plugin can be included within a theme. To do so, "
+"move the ACF plugin inside your theme and add the following code to your "
+"functions.php file:"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:323
+msgid ""
+"To remove all visual interfaces from the ACF plugin, you can use a constant "
+"to enable lite mode. Add the following code to your functions.php file "
+"<b>before</b> the include_once code:"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:331
+msgid "Back to export"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/export.php:400
+msgid "No field groups were selected"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:358
+msgid "Move to trash. Are you sure?"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:359
+msgid "checked"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:360
+msgid "No toggle fields available"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:361
+msgid "Field group title is required"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:362
+msgid "copy"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:363
+#: bw/lib/acf/core/views/meta_box_location.php:62
+#: bw/lib/acf/core/views/meta_box_location.php:159
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3622
+msgid "or"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:364
+#: bw/lib/acf/core/controllers/field_group.php:395
+#: bw/lib/acf/core/controllers/field_group.php:457
+#: bw/lib/acf/core/controllers/field_groups.php:148
+msgid "Fields"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:365
+msgid "Parent fields"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:366
+msgid "Sibling fields"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:367
+msgid "Hide / Show All"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:396
+msgid "Location"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:397
+msgid "Options"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:459
+msgid "Show Field Key:"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:460
+#: bw/lib/acf/core/fields/page_link.php:138
+#: bw/lib/acf/core/fields/page_link.php:159
+#: bw/lib/acf/core/fields/post_object.php:328
+#: bw/lib/acf/core/fields/post_object.php:349
+#: bw/lib/acf/core/fields/select.php:224 bw/lib/acf/core/fields/select.php:243
+#: bw/lib/acf/core/fields/taxonomy.php:347 bw/lib/acf/core/fields/user.php:332
+#: bw/lib/acf/core/fields/wysiwyg.php:335
+#: bw/lib/acf/core/views/meta_box_fields.php:196
+#: bw/lib/acf/core/views/meta_box_fields.php:219
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:104
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:394
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:446
+msgid "No"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:461
+#: bw/lib/acf/core/fields/page_link.php:137
+#: bw/lib/acf/core/fields/page_link.php:158
+#: bw/lib/acf/core/fields/post_object.php:327
+#: bw/lib/acf/core/fields/post_object.php:348
+#: bw/lib/acf/core/fields/select.php:223 bw/lib/acf/core/fields/select.php:242
+#: bw/lib/acf/core/fields/taxonomy.php:346 bw/lib/acf/core/fields/user.php:331
+#: bw/lib/acf/core/fields/wysiwyg.php:334
+#: bw/lib/acf/core/views/meta_box_fields.php:195
+#: bw/lib/acf/core/views/meta_box_fields.php:218
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:109
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:389
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:441
+msgid "Yes"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:633
+msgid "Front Page"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:634
+msgid "Posts Page"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:635
+msgid "Top Level Page (parent of 0)"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:636
+msgid "Parent Page (has children)"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:637
+msgid "Child Page (has parent)"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:645
+msgid "Default Template"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:723
+msgid "Publish"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:724
+msgid "Pending Review"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:725
+msgid "Draft"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:726
+msgid "Future"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:727
+msgid "Private"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:728
+msgid "Revision"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:729
+msgid "Trash"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:742
+msgid "Super Admin"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_group.php:757
+#: bw/lib/acf/core/controllers/field_group.php:778
+#: bw/lib/acf/core/controllers/field_group.php:785
+#: bw/lib/acf/core/fields/file.php:186 bw/lib/acf/core/fields/image.php:170
+#: bw/lib/acf/core/fields/page_link.php:109
+#: bw/lib/acf/core/fields/post_object.php:274
+#: bw/lib/acf/core/fields/post_object.php:298
+#: bw/lib/acf/core/fields/relationship.php:601
+#: bw/lib/acf/core/fields/relationship.php:625
+#: bw/lib/acf/core/fields/user.php:276
+msgid "All"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:216
+#: bw/lib/acf/core/controllers/field_groups.php:253
+msgid "Changelog"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:217
+msgid "See what's new in"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:217
+msgid "version"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:219
+msgid "Resources"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:221
+msgid "Getting Started"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:222
+msgid "Field Types"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:223
+msgid "Functions"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:224
+msgid "Actions"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:225
+#: bw/lib/acf/core/fields/relationship.php:644
+msgid "Filters"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:226
+msgid "'How to' guides"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:227
+msgid "Tutorials"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:232
+msgid "Created by"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:244
+msgid "Welcome to Advanced Custom Fields"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:245
+msgid "Thank you for updating to the latest version!"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:245
+msgid "is more polished and enjoyable than ever before. We hope you like it."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:252
+msgid "What’s New"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:255
+msgid "Download Add-ons"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:309
+msgid "Activation codes have grown into plugins!"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:310
+msgid ""
+"Add-ons are now activated by downloading and installing individual plugins. "
+"Although these plugins will not be hosted on the wordpress.org repository, "
+"each Add-on will continue to receive updates in the usual way."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:316
+msgid "All previous Add-ons have been successfully installed"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:320
+msgid "This website uses premium Add-ons which need to be downloaded"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:320
+msgid "Download your activated Add-ons"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:325
+msgid ""
+"This website does not use premium Add-ons and will not be affected by this "
+"change."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:335
+msgid "Easier Development"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:337
+msgid "New Field Types"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:339
+msgid "Taxonomy Field"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:340
+msgid "User Field"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:341
+msgid "Email Field"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:342
+msgid "Password Field"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:344
+msgid "Custom Field Types"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:345
+msgid ""
+"Creating your own field type has never been easier! Unfortunately, version 3 "
+"field types are not compatible with version 4."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:346
+msgid "Migrating your field types is easy, please"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:346
+msgid "follow this tutorial"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:346
+msgid "to learn more."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:348
+msgid "Actions &amp; Filters"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:349
+msgid ""
+"All actions & filters have received a major facelift to make customizing ACF "
+"even easier! Please"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:349
+msgid "read this guide"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:349
+msgid "to find the updated naming convention."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:351
+msgid "Preview draft is now working!"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:352
+msgid "This bug has been squashed along with many other little critters!"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:352
+msgid "See the full changelog"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:356
+msgid "Important"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:358
+msgid "Database Changes"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:359
+msgid ""
+"Absolutely <strong>no</strong> changes have been made to the database "
+"between versions 3 and 4. This means you can roll back to version 3 without "
+"any issues."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:361
+msgid "Potential Issues"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:362
+msgid ""
+"Do to the sizable changes surounding Add-ons, field types and action/"
+"filters, your website may not operate correctly. It is important that you "
+"read the full"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:362
+msgid "Migrating from v3 to v4"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:362
+msgid "guide to view the full list of changes."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:365
+msgid "Really Important!"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:365
+msgid ""
+"If you updated the ACF plugin without prior knowledge of such changes, "
+"please roll back to the latest"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:365
+msgid "version 3"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:365
+msgid "of this plugin."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:370
+msgid "Thank You"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:371
+msgid ""
+"A <strong>BIG</strong> thank you to everyone who has helped test the version "
+"4 beta and for all the support I have received."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:372
+msgid "Without you all, this release would not have been possible!"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:376
+msgid "Changelog for"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:393
+msgid "Learn more"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:399
+msgid "Overview"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:401
+msgid ""
+"Previously, all Add-ons were unlocked via an activation code (purchased from "
+"the ACF Add-ons store). New to v4, all Add-ons act as separate plugins which "
+"need to be individually downloaded, installed and updated."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:403
+msgid ""
+"This page will assist you in downloading and installing each available Add-"
+"on."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:405
+msgid "Available Add-ons"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:407
+msgid "The following Add-ons have been detected as activated on this website."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:421
+msgid "Activation Code"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:463
+msgid "Installation"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:465
+msgid "For each Add-on available, please perform the following:"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:467
+msgid "Download the Add-on plugin (.zip file) to your desktop"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:468
+msgid "Navigate to"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:468
+msgid "Plugins > Add New > Upload"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:469
+msgid "Use the uploader to browse, select and install your Add-on (.zip file)"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:470
+msgid ""
+"Once the plugin has been uploaded and installed, click the 'Activate Plugin' "
+"link"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:471
+msgid "The Add-on is now installed and activated!"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/field_groups.php:485
+msgid "Awesome. Let's get to work"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/input.php:63
+msgid "Expand Details"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/input.php:64
+msgid "Collapse Details"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/input.php:67
+msgid "Validation Failed. One or more fields below are required."
+msgstr ""
+
+#: bw/lib/acf/core/controllers/upgrade.php:74
+msgid "Upgrade"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/upgrade.php:596
+msgid "Modifying field group options 'show on page'"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/upgrade.php:650
+msgid "Modifying field option 'taxonomy'"
+msgstr ""
+
+#: bw/lib/acf/core/controllers/upgrade.php:747
+msgid "Moving user custom fields from wp_options to wp_usermeta'"
+msgstr ""
+
+#: bw/lib/acf/core/fields/_base.php:124
+#: bw/lib/acf/core/views/meta_box_location.php:74
+msgid "Basic"
+msgstr ""
+
+#: bw/lib/acf/core/fields/checkbox.php:19
+#: bw/lib/acf/core/fields/taxonomy.php:323
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:89
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2205
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:119
+msgid "Checkbox"
+msgstr ""
+
+#: bw/lib/acf/core/fields/checkbox.php:20 bw/lib/acf/core/fields/radio.php:19
+#: bw/lib/acf/core/fields/select.php:19
+#: bw/lib/acf/core/fields/true_false.php:20
+msgid "Choice"
+msgstr ""
+
+#: bw/lib/acf/core/fields/checkbox.php:146
+#: bw/lib/acf/core/fields/radio.php:147 bw/lib/acf/core/fields/select.php:177
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:46
+msgid "Choices"
+msgstr ""
+
+#: bw/lib/acf/core/fields/checkbox.php:147
+#: bw/lib/acf/core/fields/select.php:178
+msgid "Enter each choice on a new line."
+msgstr ""
+
+#: bw/lib/acf/core/fields/checkbox.php:148
+#: bw/lib/acf/core/fields/select.php:179
+msgid "For more control, you may specify both a value and label like this:"
+msgstr ""
+
+#: bw/lib/acf/core/fields/checkbox.php:149
+#: bw/lib/acf/core/fields/radio.php:153 bw/lib/acf/core/fields/select.php:180
+msgid "red : Red"
+msgstr ""
+
+#: bw/lib/acf/core/fields/checkbox.php:149
+#: bw/lib/acf/core/fields/radio.php:154 bw/lib/acf/core/fields/select.php:180
+msgid "blue : Blue"
+msgstr ""
+
+#: bw/lib/acf/core/fields/checkbox.php:166
+#: bw/lib/acf/core/fields/color_picker.php:89
+#: bw/lib/acf/core/fields/email.php:106 bw/lib/acf/core/fields/number.php:116
+#: bw/lib/acf/core/fields/radio.php:196 bw/lib/acf/core/fields/select.php:197
+#: bw/lib/acf/core/fields/text.php:116 bw/lib/acf/core/fields/textarea.php:103
+#: bw/lib/acf/core/fields/true_false.php:94
+#: bw/lib/acf/core/fields/wysiwyg.php:277
+msgid "Default Value"
+msgstr ""
+
+#: bw/lib/acf/core/fields/checkbox.php:167
+#: bw/lib/acf/core/fields/select.php:198
+msgid "Enter each default value on a new line"
+msgstr ""
+
+#: bw/lib/acf/core/fields/checkbox.php:194
+#: bw/lib/acf/core/fields/radio.php:223
+msgid "Vertical"
+msgstr ""
+
+#: bw/lib/acf/core/fields/checkbox.php:195
+#: bw/lib/acf/core/fields/radio.php:224
+msgid "Horizontal"
+msgstr ""
+
+#: bw/lib/acf/core/fields/color_picker.php:19
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2206
+msgid "Color Picker"
+msgstr ""
+
+#: bw/lib/acf/core/fields/color_picker.php:20
+#: bw/lib/acf/core/fields/date_picker/date_picker.php:20
+#: bw/lib/acf/core/fields/google-map.php:19
+msgid "jQuery"
+msgstr ""
+
+#: bw/lib/acf/core/fields/date_picker/date_picker.php:19
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:178
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2210
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:150
+msgid "Date Picker"
+msgstr ""
+
+#: bw/lib/acf/core/fields/date_picker/date_picker.php:55
+msgid "Done"
+msgstr ""
+
+#: bw/lib/acf/core/fields/date_picker/date_picker.php:56
+#: bw/lib/option-tree/includes/ot-functions-admin.php:663
+msgid "Today"
+msgstr ""
+
+#: bw/lib/acf/core/fields/date_picker/date_picker.php:59
+msgid "Show a different month"
+msgstr ""
+
+#: bw/lib/acf/core/fields/date_picker/date_picker.php:126
+msgid "Save format"
+msgstr ""
+
+#: bw/lib/acf/core/fields/date_picker/date_picker.php:127
+msgid ""
+"This format will determin the value saved to the database and returned via "
+"the API"
+msgstr ""
+
+#: bw/lib/acf/core/fields/date_picker/date_picker.php:128
+msgid "\"yymmdd\" is the most versatile save format. Read more about"
+msgstr ""
+
+#: bw/lib/acf/core/fields/date_picker/date_picker.php:128
+#: bw/lib/acf/core/fields/date_picker/date_picker.php:144
+msgid "jQuery date formats"
+msgstr ""
+
+#: bw/lib/acf/core/fields/date_picker/date_picker.php:142
+msgid "Display format"
+msgstr ""
+
+#: bw/lib/acf/core/fields/date_picker/date_picker.php:143
+msgid "This format will be seen by the user when entering a value"
+msgstr ""
+
+#: bw/lib/acf/core/fields/date_picker/date_picker.php:144
+msgid ""
+"\"dd/mm/yy\" or \"mm/dd/yy\" are the most used display formats. Read more "
+"about"
+msgstr ""
+
+#: bw/lib/acf/core/fields/date_picker/date_picker.php:158
+msgid "Week Starts On"
+msgstr ""
+
+#: bw/lib/acf/core/fields/dummy.php:19
+msgid "Dummy"
+msgstr ""
+
+#: bw/lib/acf/core/fields/email.php:19 comments.php:80
+#: woocommerce/single-product-reviews.php:66
+msgid "Email"
+msgstr ""
+
+#: bw/lib/acf/core/fields/email.php:107 bw/lib/acf/core/fields/number.php:117
+#: bw/lib/acf/core/fields/text.php:117 bw/lib/acf/core/fields/textarea.php:104
+#: bw/lib/acf/core/fields/wysiwyg.php:278
+msgid "Appears when creating a new post"
+msgstr ""
+
+#: bw/lib/acf/core/fields/email.php:123 bw/lib/acf/core/fields/number.php:133
+#: bw/lib/acf/core/fields/password.php:105 bw/lib/acf/core/fields/text.php:131
+#: bw/lib/acf/core/fields/textarea.php:118
+msgid "Placeholder Text"
+msgstr ""
+
+#: bw/lib/acf/core/fields/email.php:124 bw/lib/acf/core/fields/number.php:134
+#: bw/lib/acf/core/fields/password.php:106 bw/lib/acf/core/fields/text.php:132
+#: bw/lib/acf/core/fields/textarea.php:119
+msgid "Appears within the input"
+msgstr ""
+
+#: bw/lib/acf/core/fields/email.php:138 bw/lib/acf/core/fields/number.php:148
+#: bw/lib/acf/core/fields/password.php:120 bw/lib/acf/core/fields/text.php:146
+msgid "Prepend"
+msgstr ""
+
+#: bw/lib/acf/core/fields/email.php:139 bw/lib/acf/core/fields/number.php:149
+#: bw/lib/acf/core/fields/password.php:121 bw/lib/acf/core/fields/text.php:147
+msgid "Appears before the input"
+msgstr ""
+
+#: bw/lib/acf/core/fields/email.php:153 bw/lib/acf/core/fields/number.php:163
+#: bw/lib/acf/core/fields/password.php:135 bw/lib/acf/core/fields/text.php:161
+msgid "Append"
+msgstr ""
+
+#: bw/lib/acf/core/fields/email.php:154 bw/lib/acf/core/fields/number.php:164
+#: bw/lib/acf/core/fields/password.php:136 bw/lib/acf/core/fields/text.php:162
+msgid "Appears after the input"
+msgstr ""
+
+#: bw/lib/acf/core/fields/file.php:19
+msgid "File"
+msgstr ""
+
+#: bw/lib/acf/core/fields/file.php:20 bw/lib/acf/core/fields/image.php:20
+#: bw/lib/acf/core/fields/wysiwyg.php:37
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:253
+#: bw/lib/shortcode-generator/shortcode-definitions.php:113
+msgid "Content"
+msgstr ""
+
+#: bw/lib/acf/core/fields/file.php:26
+msgid "Select File"
+msgstr ""
+
+#: bw/lib/acf/core/fields/file.php:27
+msgid "Edit File"
+msgstr ""
+
+#: bw/lib/acf/core/fields/file.php:28
+msgid "Update File"
+msgstr ""
+
+#: bw/lib/acf/core/fields/file.php:29 bw/lib/acf/core/fields/image.php:30
+msgid "uploaded to this post"
+msgstr ""
+
+#: bw/lib/acf/core/fields/file.php:113
+#: bw/lib/shortcode-generator/shortcode-definitions.php:152
+msgid "Size"
+msgstr ""
+
+#: bw/lib/acf/core/fields/file.php:123
+msgid "No File Selected"
+msgstr ""
+
+#: bw/lib/acf/core/fields/file.php:123
+msgid "Add File"
+msgstr ""
+
+#: bw/lib/acf/core/fields/file.php:153 bw/lib/acf/core/fields/image.php:118
+#: bw/lib/acf/core/fields/taxonomy.php:371
+msgid "Return Value"
+msgstr ""
+
+#: bw/lib/acf/core/fields/file.php:164
+msgid "File Object"
+msgstr ""
+
+#: bw/lib/acf/core/fields/file.php:165
+msgid "File URL"
+msgstr ""
+
+#: bw/lib/acf/core/fields/file.php:166
+msgid "File ID"
+msgstr ""
+
+#: bw/lib/acf/core/fields/file.php:175 bw/lib/acf/core/fields/image.php:158
+msgid "Library"
+msgstr ""
+
+#: bw/lib/acf/core/fields/file.php:187 bw/lib/acf/core/fields/image.php:171
+msgid "Uploaded to post"
+msgstr ""
+
+#: bw/lib/acf/core/fields/google-map.php:18
+msgid "Google Map"
+msgstr ""
+
+#: bw/lib/acf/core/fields/google-map.php:33
+msgid "Locating"
+msgstr ""
+
+#: bw/lib/acf/core/fields/google-map.php:34
+msgid "Sorry, this browser does not support geolocation"
+msgstr ""
+
+#: bw/lib/acf/core/fields/google-map.php:120
+msgid "Clear location"
+msgstr ""
+
+#: bw/lib/acf/core/fields/google-map.php:125
+msgid "Find current location"
+msgstr ""
+
+#: bw/lib/acf/core/fields/google-map.php:126
+msgid "Search for address..."
+msgstr ""
+
+#: bw/lib/acf/core/fields/google-map.php:162
+msgid "Center"
+msgstr ""
+
+#: bw/lib/acf/core/fields/google-map.php:163
+msgid "Center the initial map"
+msgstr ""
+
+#: bw/lib/acf/core/fields/google-map.php:199
+msgid "Zoom"
+msgstr ""
+
+#: bw/lib/acf/core/fields/google-map.php:200
+msgid "Set the initial zoom level"
+msgstr ""
+
+#: bw/lib/acf/core/fields/google-map.php:217
+msgid "Height"
+msgstr ""
+
+#: bw/lib/acf/core/fields/google-map.php:218
+msgid "Customise the map height"
+msgstr ""
+
+#: bw/lib/acf/core/fields/image.php:19
+#: bw/lib/option-tree/includes/ot-functions-admin.php:667
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2791
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2852
+msgid "Image"
+msgstr ""
+
+#: bw/lib/acf/core/fields/image.php:27
+msgid "Select Image"
+msgstr ""
+
+#: bw/lib/acf/core/fields/image.php:28
+msgid "Edit Image"
+msgstr ""
+
+#: bw/lib/acf/core/fields/image.php:29
+msgid "Update Image"
+msgstr ""
+
+#: bw/lib/acf/core/fields/image.php:83
+msgid "Remove"
+msgstr ""
+
+#: bw/lib/acf/core/fields/image.php:90
+msgid "No image selected"
+msgstr ""
+
+#: bw/lib/acf/core/fields/image.php:90
+msgid "Add Image"
+msgstr ""
+
+#: bw/lib/acf/core/fields/image.php:119
+#: bw/lib/acf/core/fields/relationship.php:576
+msgid "Specify the returned value on front end"
+msgstr ""
+
+#: bw/lib/acf/core/fields/image.php:129
+msgid "Image Object"
+msgstr ""
+
+#: bw/lib/acf/core/fields/image.php:130
+msgid "Image URL"
+msgstr ""
+
+#: bw/lib/acf/core/fields/image.php:131
+msgid "Image ID"
+msgstr ""
+
+#: bw/lib/acf/core/fields/image.php:139
+msgid "Preview Size"
+msgstr ""
+
+#: bw/lib/acf/core/fields/image.php:140
+msgid "Shown when entering data"
+msgstr ""
+
+#: bw/lib/acf/core/fields/image.php:159
+msgid "Limit the media library choice"
+msgstr ""
+
+#: bw/lib/acf/core/fields/message.php:19 bw/lib/acf/core/fields/message.php:70
+#: bw/lib/acf/core/fields/true_false.php:79 comments.php:84
+#: woocommerce/single-product-reviews.php:73
+msgid "Message"
+msgstr ""
+
+#: bw/lib/acf/core/fields/message.php:71
+msgid "Text &amp; HTML entered here will appear inline with the fields"
+msgstr ""
+
+#: bw/lib/acf/core/fields/message.php:72
+msgid "Please note that all text will first be passed through the wp function "
+msgstr ""
+
+#: bw/lib/acf/core/fields/number.php:19
+msgid "Number"
+msgstr ""
+
+#: bw/lib/acf/core/fields/number.php:178
+msgid "Minimum Value"
+msgstr ""
+
+#: bw/lib/acf/core/fields/number.php:194
+msgid "Maximum Value"
+msgstr ""
+
+#: bw/lib/acf/core/fields/number.php:210
+msgid "Step Size"
+msgstr ""
+
+#: bw/lib/acf/core/fields/page_link.php:18
+msgid "Page Link"
+msgstr ""
+
+#: bw/lib/acf/core/fields/page_link.php:19
+#: bw/lib/acf/core/fields/post_object.php:19
+#: bw/lib/acf/core/fields/relationship.php:19
+#: bw/lib/acf/core/fields/taxonomy.php:19 bw/lib/acf/core/fields/user.php:19
+msgid "Relational"
+msgstr ""
+
+#: bw/lib/acf/core/fields/page_link.php:103
+#: bw/lib/acf/core/fields/post_object.php:268
+#: bw/lib/acf/core/fields/relationship.php:595
+#: bw/lib/acf/core/fields/relationship.php:674
+#: bw/lib/acf/core/views/meta_box_location.php:75
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:58
+msgid "Post Type"
+msgstr ""
+
+#: bw/lib/acf/core/fields/page_link.php:127
+#: bw/lib/acf/core/fields/post_object.php:317
+#: bw/lib/acf/core/fields/select.php:214
+#: bw/lib/acf/core/fields/taxonomy.php:337 bw/lib/acf/core/fields/user.php:322
+msgid "Allow Null?"
+msgstr ""
+
+#: bw/lib/acf/core/fields/page_link.php:148
+#: bw/lib/acf/core/fields/post_object.php:338
+#: bw/lib/acf/core/fields/select.php:233
+msgid "Select multiple values?"
+msgstr ""
+
+#: bw/lib/acf/core/fields/password.php:19 woocommerce/global/form-login.php:26
+#: woocommerce/myaccount/form-login.php:36
+#: woocommerce/myaccount/form-login.php:86
+msgid "Password"
+msgstr ""
+
+#: bw/lib/acf/core/fields/post_object.php:18
+msgid "Post Object"
+msgstr ""
+
+#: bw/lib/acf/core/fields/post_object.php:292
+#: bw/lib/acf/core/fields/relationship.php:619
+msgid "Filter from Taxonomy"
+msgstr ""
+
+#: bw/lib/acf/core/fields/radio.php:18
+msgid "Radio Button"
+msgstr ""
+
+#: bw/lib/acf/core/fields/radio.php:105
+#: bw/lib/acf/core/views/meta_box_location.php:91
+msgid "Other"
+msgstr ""
+
+#: bw/lib/acf/core/fields/radio.php:148
+msgid "Enter your choices one per line"
+msgstr ""
+
+#: bw/lib/acf/core/fields/radio.php:150
+msgid "Red"
+msgstr ""
+
+#: bw/lib/acf/core/fields/radio.php:151
+msgid "Blue"
+msgstr ""
+
+#: bw/lib/acf/core/fields/radio.php:175
+msgid "Add 'other' choice to allow for custom values"
+msgstr ""
+
+#: bw/lib/acf/core/fields/radio.php:187
+msgid "Save 'other' values to the field's choices"
+msgstr ""
+
+#: bw/lib/acf/core/fields/relationship.php:18
+msgid "Relationship"
+msgstr ""
+
+#: bw/lib/acf/core/fields/relationship.php:29
+msgid "Maximum values reached ( {max} values )"
+msgstr ""
+
+#: bw/lib/acf/core/fields/relationship.php:429
+msgid "Search..."
+msgstr ""
+
+#: bw/lib/acf/core/fields/relationship.php:440
+msgid "Filter by post type"
+msgstr ""
+
+#: bw/lib/acf/core/fields/relationship.php:575
+msgid "Return Format"
+msgstr ""
+
+#: bw/lib/acf/core/fields/relationship.php:586
+msgid "Post Objects"
+msgstr ""
+
+#: bw/lib/acf/core/fields/relationship.php:587
+msgid "Post IDs"
+msgstr ""
+
+#: bw/lib/acf/core/fields/relationship.php:653
+msgid "Search"
+msgstr ""
+
+#: bw/lib/acf/core/fields/relationship.php:654
+msgid "Post Type Select"
+msgstr ""
+
+#: bw/lib/acf/core/fields/relationship.php:662
+#: bw/lib/shortcode-generator/shortcode-definitions.php:96
+msgid "Elements"
+msgstr ""
+
+#: bw/lib/acf/core/fields/relationship.php:663
+msgid "Selected elements will be displayed in each result"
+msgstr ""
+
+#: bw/lib/acf/core/fields/relationship.php:672
+#: bw/lib/acf/core/views/meta_box_options.php:106
+#: bw/lib/option-tree/includes/ot-functions-admin.php:666
+msgid "Featured Image"
+msgstr ""
+
+#: bw/lib/acf/core/fields/relationship.php:673
+msgid "Post Title"
+msgstr ""
+
+#: bw/lib/acf/core/fields/relationship.php:685
+msgid "Maximum posts"
+msgstr ""
+
+#: bw/lib/acf/core/fields/select.php:18 bw/lib/acf/core/fields/select.php:109
+#: bw/lib/acf/core/fields/taxonomy.php:328 bw/lib/acf/core/fields/user.php:313
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:421
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2223
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:241
+msgid "Select"
+msgstr ""
+
+#: bw/lib/acf/core/fields/tab.php:19
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2227
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:254
+msgid "Tab"
+msgstr ""
+
+#: bw/lib/acf/core/fields/tab.php:68
+msgid ""
+"Use \"Tab Fields\" to better organize your edit screen by grouping your "
+"fields together under separate tab headings."
+msgstr ""
+
+#: bw/lib/acf/core/fields/tab.php:69
+msgid ""
+"All the fields following this \"tab field\" (or until another \"tab field\" "
+"is defined) will be grouped together."
+msgstr ""
+
+#: bw/lib/acf/core/fields/tab.php:70
+msgid "Use multiple tabs to divide your fields into sections."
+msgstr ""
+
+#: bw/lib/acf/core/fields/taxonomy.php:18
+#: bw/lib/acf/core/fields/taxonomy.php:278
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:67
+msgid "Taxonomy"
+msgstr ""
+
+#: bw/lib/acf/core/fields/taxonomy.php:222
+#: bw/lib/acf/core/fields/taxonomy.php:231
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:416
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:420
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:466
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:470
+msgid "None"
+msgstr ""
+
+#: bw/lib/acf/core/fields/taxonomy.php:322 bw/lib/acf/core/fields/user.php:307
+msgid "Multiple Values"
+msgstr ""
+
+#: bw/lib/acf/core/fields/taxonomy.php:324 bw/lib/acf/core/fields/user.php:309
+msgid "Multi Select"
+msgstr ""
+
+#: bw/lib/acf/core/fields/taxonomy.php:326 bw/lib/acf/core/fields/user.php:311
+msgid "Single Value"
+msgstr ""
+
+#: bw/lib/acf/core/fields/taxonomy.php:327
+msgid "Radio Buttons"
+msgstr ""
+
+#: bw/lib/acf/core/fields/taxonomy.php:356
+msgid "Load & Save Terms to Post"
+msgstr ""
+
+#: bw/lib/acf/core/fields/taxonomy.php:364
+msgid ""
+"Load value based on the post's terms and update the post's terms on save"
+msgstr ""
+
+#: bw/lib/acf/core/fields/taxonomy.php:381
+msgid "Term Object"
+msgstr ""
+
+#: bw/lib/acf/core/fields/taxonomy.php:382
+msgid "Term ID"
+msgstr ""
+
+#: bw/lib/acf/core/fields/text.php:19
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:62
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:548
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2232
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:269
+#: bw/lib/shortcode-generator/shortcode-definitions.php:165
+msgid "Text"
+msgstr ""
+
+#: bw/lib/acf/core/fields/text.php:176 bw/lib/acf/core/fields/textarea.php:164
+msgid "Formatting"
+msgstr ""
+
+#: bw/lib/acf/core/fields/text.php:177 bw/lib/acf/core/fields/textarea.php:165
+msgid "Effects value on front end"
+msgstr ""
+
+#: bw/lib/acf/core/fields/text.php:186 bw/lib/acf/core/fields/textarea.php:174
+msgid "No formatting"
+msgstr ""
+
+#: bw/lib/acf/core/fields/text.php:187 bw/lib/acf/core/fields/textarea.php:176
+msgid "Convert HTML into tags"
+msgstr ""
+
+#: bw/lib/acf/core/fields/text.php:195 bw/lib/acf/core/fields/textarea.php:133
+msgid "Character Limit"
+msgstr ""
+
+#: bw/lib/acf/core/fields/text.php:196 bw/lib/acf/core/fields/textarea.php:134
+msgid "Leave blank for no limit"
+msgstr ""
+
+#: bw/lib/acf/core/fields/textarea.php:19
+msgid "Text Area"
+msgstr ""
+
+#: bw/lib/acf/core/fields/textarea.php:148
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:55
+msgid "Rows"
+msgstr ""
+
+#: bw/lib/acf/core/fields/textarea.php:149
+msgid "Sets the textarea height"
+msgstr ""
+
+#: bw/lib/acf/core/fields/textarea.php:175
+msgid "Convert new lines into &lt;br /&gt; tags"
+msgstr ""
+
+#: bw/lib/acf/core/fields/true_false.php:19
+msgid "True / False"
+msgstr ""
+
+#: bw/lib/acf/core/fields/true_false.php:80
+msgid "eg. Show extra content"
+msgstr ""
+
+#: bw/lib/acf/core/fields/user.php:18
+#: bw/lib/acf/core/views/meta_box_location.php:94
+msgid "User"
+msgstr ""
+
+#: bw/lib/acf/core/fields/user.php:271
+msgid "Filter by role"
+msgstr ""
+
+#: bw/lib/acf/core/fields/wysiwyg.php:36
+msgid "Wysiwyg Editor"
+msgstr ""
+
+#: bw/lib/acf/core/fields/wysiwyg.php:292
+msgid "Toolbar"
+msgstr ""
+
+#: bw/lib/acf/core/fields/wysiwyg.php:324
+msgid "Show Media Upload Buttons?"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_fields.php:58
+msgid "Field type does not exist"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_fields.php:78
+msgid "Field Key"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_fields.php:90
+msgid ""
+"No fields. Click the <strong>+ Add Field</strong> button to create your "
+"first field."
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_fields.php:174
+msgid "Instructions for authors. Shown when submitting data"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_fields.php:187
+msgid "Required?"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_fields.php:210
+msgid "Conditional Logic"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_fields.php:261
+#: bw/lib/acf/core/views/meta_box_location.php:117
+msgid "is equal to"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_fields.php:262
+#: bw/lib/acf/core/views/meta_box_location.php:118
+msgid "is not equal to"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_fields.php:280
+msgid "Show this field when"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_fields.php:286
+msgid "all"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_fields.php:287
+msgid "any"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_fields.php:290
+msgid "these rules are met"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_fields.php:318
+msgid "+ Add Field"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_location.php:48
+msgid "Rules"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_location.php:49
+msgid ""
+"Create a set of rules to determine which edit screens will use these "
+"advanced custom fields"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_location.php:60
+msgid "Show this field group if"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_location.php:76
+msgid "Logged in User Type"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_location.php:78
+#: bw/lib/acf/core/views/meta_box_location.php:79
+msgid "Post"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_location.php:80
+msgid "Post Category"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_location.php:81
+msgid "Post Format"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_location.php:82
+msgid "Post Status"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_location.php:83
+msgid "Post Taxonomy"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_location.php:85
+#: bw/lib/acf/core/views/meta_box_location.php:86
+#: woocommerce/global/breadcrumb.php:203
+msgid "Page"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_location.php:87
+msgid "Page Type"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_location.php:88
+msgid "Page Parent"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_location.php:89
+msgid "Page Template"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_location.php:92
+msgid "Attachment"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_location.php:93
+msgid "Taxonomy Term"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_location.php:146
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:45
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:624
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3621
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:111
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:354
+msgid "and"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_location.php:161
+msgid "Add rule group"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:25
+msgid "Order No."
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:26
+msgid "Field groups are created in order <br />from lowest to highest"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:42
+msgid "Position"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:52
+msgid "High (after title)"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:53
+msgid "Normal (after content)"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:54
+msgid "Side"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:64
+msgid "Style"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:74
+msgid "Seamless (no metabox)"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:75
+msgid "Standard (WP metabox)"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:84
+msgid "Hide on screen"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:85
+msgid "<b>Select</b> items to <b>hide</b> them from the edit screen"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:86
+msgid ""
+"If multiple field groups appear on an edit screen, the first field group's "
+"options will be used. (the one with the lowest order number)"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:96
+msgid "Permalink"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:97
+msgid "Content Editor"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:98
+msgid "Excerpt"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:100
+msgid "Discussion"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:101
+msgid "Comments"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:102
+msgid "Revisions"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:103
+msgid "Slug"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:104
+msgid "Author"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:105
+msgid "Format"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:107
+msgid "Categories"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:108
+msgid "Tags"
+msgstr ""
+
+#: bw/lib/acf/core/views/meta_box_options.php:109
+msgid "Send Trackbacks"
+msgstr ""
+
+#: bw/lib/envato-wtl/class-envato-backup.php:392
+msgid "The backup file was not created"
+msgstr ""
+
+#: bw/lib/envato-wtl/class-envato-backup.php:461
+msgid "The following files are unreadable and could not be backed up: "
+msgstr ""
+
+#: bw/lib/envato-wtl/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: bw/lib/envato-wtl/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: bw/lib/envato-wtl/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: bw/lib/envato-wtl/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: bw/lib/envato-wtl/class-envato-wordpress-theme-upgrader.php:316
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: bw/lib/envato-wtl/class-envato-wordpress-theme-upgrader.php:327
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: bw/lib/envato-wtl/class-envato-wordpress-theme-upgrader.php:420
+msgid ""
+"This .htaccess file ensures that other people cannot download your backup "
+"files."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:23
+msgid "Demo Meta Box"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:30
+msgid "Conditions"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:35
+msgid "Show Gallery"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:38
+#, php-format
+msgid "Shows the Gallery when set to %s."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:45
+msgid "Congratulations, you created a gallery!"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:53
+#, php-format
+msgid "This is a Gallery option type. It displays when %s."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:57
+msgid "More Options"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:65
+msgid "This is a demo Text field."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:68
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:563
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2233
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:272
+msgid "Textarea"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-meta-boxes.php:71
+msgid "This is a demo Textarea field."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:29
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:38
+#: bw/lib/option-tree/includes/ot-functions-admin.php:234
+msgid "Option Types"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:30
+msgid "Help content goes here!"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:33
+msgid "Sidebar content goes here!"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:44
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2202
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:110
+msgid "Background"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:45
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:111
+#, php-format
+msgid ""
+"The Background option type is for adding background styles to your theme "
+"either dynamically via the CSS option type below or manually with %s. The "
+"Background option type has filters that allow you to remove fields or change "
+"the defaults. For example, you can filter %s to remove unwanted fields from "
+"all Background options or an individual one. You can also filter %s. These "
+"filters allow you to fine tune the select lists for your specific needs."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:59
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2203
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:113
+msgid "Category Checkbox"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:60
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:114
+msgid ""
+"The Category Checkbox option type displays a list of category IDs. It allows "
+"the user to check multiple category IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:74
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2204
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:116
+msgid "Category Select"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:75
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:117
+msgid ""
+"The Category Select option type displays a list of category IDs. It allows "
+"the user to select only one category ID and will return that value for use "
+"in a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:90
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:120
+msgid ""
+"The Checkbox option type displays a group of choices. It allows the user to "
+"check multiple choices and will return that value as an array for use in a "
+"custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:116
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:122
+msgid "Colorpicker"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:117
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:123
+msgid ""
+"The Colorpicker option type saves a hexadecimal color code for use in CSS. "
+"Use it to modify the color of something in your theme."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:131
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2207
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:125
+msgid "CSS"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:132
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:126
+#, php-format
+msgid ""
+"The CSS option type is a textarea that when used properly can add dynamic "
+"CSS to your theme from within OptionTree. Unfortunately, due server "
+"limitations you will need to create a file named %s at the root level of "
+"your theme and change permissions using %s so the server can write to the "
+"file. I have had the most success setting this single file to %s but feel "
+"free to play around with permissions until everything is working. A good "
+"starting point is %s. When the server can save to the file, CSS will "
+"automatically be updated when you save your Theme Options."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:132
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:128
+#, php-format
+msgid ""
+"This example assumes you have an option with the ID of %1$s. Which means "
+"this option will automatically insert the value of %1$s into the %2$s when "
+"the Theme Options are saved."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:148
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2208
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:144
+msgid "Custom Post Type Checkbox"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:149
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:145
+#, php-format
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It allows the user to "
+"check multiple post IDs for use in a custom function or loop. Requires at "
+"least one valid %1$s in the %1$s field."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:163
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2209
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:147
+msgid "Custom Post Type Select"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:164
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:148
+#, php-format
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It will return a single "
+"post ID for use in a custom function or loop. Requires at least one valid "
+"%1$s in the %1$s field."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:179
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:151
+msgid ""
+"The Date Picker option type is tied to a standard form input field which "
+"displays a calendar pop-up that allow the user to pick any date when focus "
+"is given to the input field. The returned value is a date formatted string."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:193
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2211
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:153
+msgid "Date Time Picker"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:194
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:154
+msgid ""
+"The Date Time Picker option type is tied to a standard form input field "
+"which displays a calendar pop-up that allow the user to pick any date and "
+"time when focus is given to the input field. The returned value is a date "
+"and time formatted string."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:209
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:157
+msgid ""
+"The Gallery option type saves a comma separated list of image attachment "
+"IDs. You will need to create a front-end function to display the images in "
+"your theme."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:223
+msgid "Gallery Shortcode"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:224
+#, php-format
+msgid ""
+"The Gallery option type can also be saved as a shortcode by adding %s to the "
+"class attribute. Using the Gallery option type in this manner will result in "
+"a better user experience as you're able to save the link, column, and order "
+"settings."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:238
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2213
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:159
+msgid "List Item"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:239
+msgid ""
+"The List Item option type allows for a great deal of customization. You can "
+"add settings to the List Item and those settings will be displayed to the "
+"user when they add a new List Item. Typical use is for creating sliding "
+"content or blocks of code for custom layouts."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:269
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2214
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:162
+msgid "Measurement"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:270
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:163
+#, php-format
+msgid ""
+"The Measurement option type is a mix of input and select fields. The text "
+"input excepts a value and the select lets you choose the unit of measurement "
+"to add to that value. Currently the default units are %s, %s, %s, and %s. "
+"However, you can change them with the %s filter."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:284
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2215
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:193
+msgid "Numeric Slider"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:285
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:194
+msgid ""
+"The Numeric Slider option type displays a jQuery UI slider. It will return a "
+"single numerical value for use in a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:299
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2216
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:196
+msgid "On/Off"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:300
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:197
+#, php-format
+msgid ""
+"The On/Off option type displays a simple switch that can be used to turn "
+"things on or off. The saved return value is either %s or %s."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:314
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2217
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:199
+msgid "Page Checkbox"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:315
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:200
+msgid ""
+"The Page Checkbox option type displays a list of page IDs. It allows the "
+"user to check multiple page IDs for use in a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:329
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2218
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:202
+msgid "Page Select"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:330
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:203
+msgid ""
+"The Page Select option type displays a list of page IDs. It will return a "
+"single page ID for use in a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:344
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2219
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:205
+msgid "Post Checkbox"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:345
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:206
+msgid ""
+"The Post Checkbox option type displays a list of post IDs. It allows the "
+"user to check multiple post IDs for use in a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:359
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2220
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:208
+msgid "Post Select"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:360
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:209
+msgid ""
+"The Post Select option type displays a list of post IDs. It will return a "
+"single post ID for use in a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:374
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2221
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:211
+msgid "Radio"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:375
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:212
+msgid ""
+"The Radio option type displays a group of choices. It allows the user to "
+"choose one and will return that value as a string for use in a custom "
+"function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:399
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:451
+msgid "Maybe"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:406
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2222
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:214
+msgid "Radio Image"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:407
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:215
+#, php-format
+msgid ""
+"the Radio Images option type is primarily used for layouts. However, you can "
+"filter the image list using %s. As well, you can add your own custom images "
+"using the choices array."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:422
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:242
+msgid ""
+"The Select option type is used to list anything you want that would be "
+"chosen from a select list."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:436
+msgid "-- Choose One --"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:458
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2224
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:244
+msgid "Sidebar Select"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:459
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:245
+#, php-format
+msgid ""
+"This option type makes it possible for users to select a WordPress "
+"registered sidebar to use on a specific area. By using the two provided "
+"filters, %s, and %s we can be selective about which sidebars are available "
+"on a specific content area."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:459
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:246
+#, php-format
+msgid ""
+"For example, if we create a WordPress theme that provides the ability to "
+"change the Blog Sidebar and we don't want to have the footer sidebars "
+"available on this area, we can unset those sidebars either manually or by "
+"using a regular expression if we have a common name like %s."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:473
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2228
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:257
+msgid "Tag Checkbox"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:474
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:258
+msgid ""
+"The Tag Checkbox option type displays a list of tag IDs. It allows the user "
+"to check multiple tag IDs and will return that value as an array for use in "
+"a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:488
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2229
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:260
+msgid "Tag Select"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:489
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:261
+msgid ""
+"The Tag Select option type displays a list of tag IDs. It allows the user to "
+"select only one tag ID and will return that value for use in a custom "
+"function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:503
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2226
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:251
+msgid "Social Links"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:504
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:252
+#, php-format
+msgid ""
+"The Social Links option type utilizes a drag & drop interface to create a "
+"list of social links. There are a few filters that make extending this "
+"option type easy. You can set the %s filter to %s and turn off loading "
+"default values. Use the %s filter to change the default values that are "
+"loaded. To filter the settings array use the %s filter."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:518
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2230
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:263
+msgid "Taxonomy Checkbox"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:519
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:264
+msgid ""
+"The Taxonomy Checkbox option type displays a list of taxonomy IDs. It allows "
+"the user to check multiple taxonomy IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:533
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2231
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:266
+msgid "Taxonomy Select"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:534
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:267
+msgid ""
+"The Taxonomy Select option type displays a list of taxonomy IDs. It allows "
+"the user to select only one taxonomy ID and will return that value for use "
+"in a custom function or loop."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:549
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:270
+msgid ""
+"The Text option type is used to save string values. For example, any "
+"optional or required text that is of reasonably short character length."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:564
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:273
+#, php-format
+msgid ""
+"The Textarea option type is a large string value used for custom code or "
+"text in the theme and has a WYSIWYG editor that can be filtered to change "
+"the how it is displayed. For example, you can filter %s, %s, %s, and %s."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:578
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2234
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:331
+msgid "Textarea Simple"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:579
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:332
+msgid ""
+"The Textarea Simple option type is a large string value used for custom code "
+"or text in the theme. The Textarea Simple does not have a WYSIWYG editor."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:593
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2235
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:347
+msgid "Textblock"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:594
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:348
+msgid ""
+"The Textblock option type is used only on the Theme Option page. It will "
+"allow you to create & display HTML, but has no title above the text block. "
+"You can then use the Textblock to add a more detailed set of instruction on "
+"how the options are used in your theme. You would never use this in your "
+"themes template files as it does not save a value."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:608
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2236
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:350
+msgid "Textblock Titled"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:609
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:351
+msgid ""
+"The Textblock Titled option type is used only on the Theme Option page. It "
+"will allow you to create & display HTML, and has a title above the text "
+"block. You can then use the Textblock Titled to add a more detailed set of "
+"instruction on how the options are used in your theme. You would never use "
+"this in your themes template files as it does not save a value."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:623
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2237
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:353
+msgid "Typography"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:624
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:354
+#, php-format
+msgid ""
+"The Typography option type is for adding typography styles to your theme "
+"either dynamically via the CSS option type above or manually with %s. The "
+"Typography option type has filters that allow you to remove fields or change "
+"the defaults. For example, you can filter %s to remove unwanted fields from "
+"all Background options or an individual one. You can also filter %s. These "
+"filters allow you to fine tune the select lists for your specific needs."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:638
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2238
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:373
+#: bw/lib/shortcode-generator/option-element.php:98
+#: bw/lib/shortcode-generator/option-element.php:141
+msgid "Upload"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:639
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:374
+#, php-format
+msgid ""
+"The Upload option type is used to upload any WordPress supported media. "
+"After uploading, users are required to press the \"%s\" button in order to "
+"populate the input with the URI of that media. There is one caveat of this "
+"feature. If you import the theme options and have uploaded media on one site "
+"the old URI will not reflect the URI of your new site. You will have to re-"
+"upload or %s any media to your new server and change the URIs if necessary."
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:639
+#: bw/lib/option-tree/includes/ot-functions-admin.php:652
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:374
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:170
+#: bw/lib/option-tree/ot-loader.php:744
+msgid "Send to OptionTree"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:653
+msgid "Upload Attachment ID"
+msgstr ""
+
+#: bw/lib/option-tree/assets/theme-mode/demo-theme-options.php:654
+#, php-format
+msgid ""
+"The Upload option type can also be saved as an attachment ID by adding %s to "
+"the class attribute."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:50
+#: bw/lib/option-tree/includes/ot-functions-admin.php:51
+#: bw/lib/option-tree/includes/ot-functions-admin.php:171
+#: bw/lib/option-tree/includes/ot-functions-admin.php:195
+#: bw/lib/option-tree/includes/ot-functions.php:284
+msgid "Theme Options"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:56
+#: bw/lib/option-tree/includes/ot-functions-admin.php:127
+#: bw/lib/option-tree/includes/ot-functions-admin.php:222
+msgid "Theme Options updated."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:57
+#: bw/lib/option-tree/includes/ot-functions-admin.php:128
+#: bw/lib/option-tree/includes/ot-functions-admin.php:223
+msgid "Theme Options reset."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:58
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:94
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:133
+msgid "Save Changes"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:98
+msgid ""
+"The Theme Options UI Builder is being overridden by a custom file in your "
+"theme. Any changes you make via the UI Builder will not be saved."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:110
+#: bw/lib/option-tree/includes/ot-functions-admin.php:111
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:797
+msgid "OptionTree"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:121
+#: bw/lib/option-tree/includes/ot-functions-admin.php:122
+#: bw/lib/option-tree/includes/ot-functions-admin.php:165
+#: bw/lib/option-tree/includes/ot-functions-admin.php:189
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:49
+msgid "Settings"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:129
+#: bw/lib/option-tree/includes/ot-functions-admin.php:224
+msgid "Save Settings"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:135
+msgid "Theme Options UI"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:139
+msgid "Import"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:147
+#: bw/lib/option-tree/includes/ot-functions-admin.php:177
+#: bw/lib/option-tree/includes/ot-functions-admin.php:201
+msgid "Layouts"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:153
+msgid "Theme Options UI Builder"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:159
+msgid "Settings XML"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:183
+msgid "Settings PHP File"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:207
+msgid "Layout Management"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:216
+#: bw/lib/option-tree/includes/ot-functions-admin.php:217
+msgid "Documentation"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:230
+msgid "Creating Options"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:238
+msgid "Function References"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:242
+#: bw/lib/option-tree/includes/ot-functions-admin.php:284
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:366
+msgid "Theme Mode"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:246
+#: bw/lib/option-tree/includes/ot-functions-admin.php:290
+msgid "Meta Boxes"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:250
+msgid "Code Examples"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:254
+msgid "Layouts Overview"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:260
+msgid "Overview of available Theme Option fields."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:266
+msgid "Option types in alphabetical order & hooks to filter them."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:272
+msgid "Function Reference:ot_get_option()"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:278
+msgid "Function Reference:get_option_tree()"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:296
+msgid "Code examples for front-end development."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:302
+msgid "What's a layout anyhow?"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:502
+msgid "The Colorpicker only allows valid hexadecimal values."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:653
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:428
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2624
+msgid "Remove Media"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:654
+msgid "Are you sure you want to reset back to the defaults?"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:655
+msgid "You can't remove this! But you can edit the values."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:656
+msgid "Are you sure you want to remove this?"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:657
+msgid "Are you sure you want to activate this layout?"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:658
+msgid "Sorry, you can't have settings three levels deep."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:659
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:983
+msgid "Delete Gallery"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:661
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:991
+msgid "Create Gallery"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:662
+msgid "Are you sure you want to delete this Gallery?"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:664
+msgid "Now"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:665
+msgid "Close"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:716
+msgid "Option Tree"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:853
+msgid "General"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:859
+msgid "Sample Text Field Label"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:860
+msgid "Description for the sample text field."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2102
+msgid "Settings updated."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2106
+msgid "Settings could not be saved."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2114
+msgid "Settings Imported."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2118
+msgid "Settings could not be imported."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2125
+msgid "Data Imported."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2129
+msgid "Data could not be imported."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2137
+msgid "Layouts Imported."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2141
+msgid "Layouts could not be imported."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2149
+msgid "Layouts Updated."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2153
+msgid "Layouts could not be updated."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2157
+msgid "Layouts have been deleted."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2163
+msgid "Layout activated."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2225
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:248
+msgid "Slider"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2240
+msgid "Bw import button"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2241
+msgid "Bw select font"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2242
+msgid "Bw text content"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2243
+msgid "Bw on/off button"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2736
+msgid "Left Sidebar"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2741
+msgid "Right Sidebar"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2746
+msgid "Full Width (no sidebar)"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2751
+msgid "Dual Sidebar"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2756
+msgid "Left Dual Sidebar"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2761
+msgid "Right Dual Sidebar"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2802
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2858
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4715
+msgid "Link"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2813
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2864
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:43
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:404
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:454
+msgid "Description"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2929
+msgid "Enter the name of the social website."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2937
+msgid "Enter the text shown in the title attribute of the link."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:2943
+#, php-format
+msgid ""
+"Enter a link to the profile or page on the social website. Remember to add "
+"the %s part to the front of the link."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3426
+msgid "edit"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3436
+msgid ""
+"<strong>Section Title</strong>: Displayed as a menu item on the Theme "
+"Options page."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3444
+msgid ""
+"<strong>Section ID</strong>: A unique lower case alphanumeric string, "
+"underscores allowed."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3505
+msgid ""
+"<strong>Label</strong>: Displayed as the label of a form element on the "
+"Theme Options page."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3513
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3742
+msgid ""
+"<strong>ID</strong>: A unique lower case alphanumeric string, underscores "
+"allowed."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3521
+msgid ""
+"<strong>Type</strong>: Choose one of the available option types from the "
+"dropdown."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3532
+msgid ""
+"<strong>Description</strong>: Enter a detailed description for the users to "
+"read on the Theme Options page, HTML is allowed. This is also where you "
+"enter content for both the Textblock & Textblock Titled option types."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3540
+msgid ""
+"<strong>Choices</strong>: This will only affect the following option types: "
+"Checkbox, Radio, Select & Select Image."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3545
+msgid "Add Choice"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3551
+msgid ""
+"<strong>Settings</strong>: This will only affect the List Item option type."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3556
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:93
+msgid "Add Setting"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3562
+msgid ""
+"<strong>Standard</strong>: Setting the standard value for your option only "
+"works for some option types. Read the <code>OptionTree->Documentation</code> "
+"for more information on which ones."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3570
+msgid ""
+"<strong>Rows</strong>: Enter a numeric value for the number of rows in your "
+"textarea. This will only affect the following option types: CSS, Textarea, & "
+"Textarea Simple."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3578
+msgid ""
+"<strong>Post Type</strong>: Add a comma separated list of post type like "
+"'post,page'. This will only affect the following option types: Custom Post "
+"Type Checkbox, & Custom Post Type Select."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3586
+msgid ""
+"<strong>Taxonomy</strong>: Add a comma separated list of any registered "
+"taxonomy like 'category,post_tag'. This will only affect the following "
+"option types: Taxonomy Checkbox, & Taxonomy Select."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3594
+msgid ""
+"<strong>Min, Max, & Step</strong>: Add a comma separated list of options in "
+"the following format <code>0,100,1</code> (slide from <code>0-100</code> in "
+"intervals of <code>1</code>). The three values represent the minimum, "
+"maximum, and step options and will only affect the Numeric Slider option "
+"type."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3602
+msgid "<strong>CSS Class</strong>: Add and optional class to this option type."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3610
+#, php-format
+msgid ""
+"<strong>Condition</strong>: Add a comma separated list (no spaces) of "
+"conditions in which the field will be visible, leave this setting empty to "
+"always show the field. In these examples, <code>value</code> is a "
+"placeholder for your condition, which can be in the form of %s."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3618
+msgid ""
+"<strong>Operator</strong>: Choose the logical operator to compute the result "
+"of the conditions."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3678
+msgid "Value"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3688
+msgid "Image Source (Radio Image only)"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3734
+msgid ""
+"<strong>Title</strong>: Displayed as a contextual help menu item on the "
+"Theme Options page."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3750
+msgid ""
+"<strong>Content</strong>: Enter the HTML content about this contextual help "
+"item displayed on the Theme Option page for end users to read."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3783
+#: bw/lib/option-tree/includes/ot-functions-admin.php:3784
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1312
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4141
+msgid "New Layout"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4724
+msgid "Link URL"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4731
+msgid "Link Title"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4761
+msgid "Quote"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4770
+msgid "Source Name (ex. author, singer, actor)"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4777
+msgid "Source URL"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4784
+msgid "Source Title (ex. book, song, movie)"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4791
+msgid "Source Date"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4821
+msgid "Video"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4830
+#, php-format
+msgid ""
+"Embed video from services like Youtube, Vimeo, or Hulu. You can find a list "
+"of supported oEmbed sites in the %1$s. Alternatively, you could use the "
+"built-in %2$s shortcode."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4830
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4869
+msgid "Wordpress Codex"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4860
+msgid "Audio"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-admin.php:4869
+#, php-format
+msgid ""
+"Embed audio from services like SoundCloud and Rdio. You can find a list of "
+"supported oEmbed sites in the %1$s. Alternatively, you could use the built-"
+"in %2$s shortcode."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:30
+msgid ""
+"The Label field should be a short but descriptive block of text 100 "
+"characters or less with no HTML."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:32
+msgid "ID"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:33
+msgid ""
+"The ID field is a unique alphanumeric key used to differentiate each theme "
+"option (underscores are acceptable). Also, the plugin will change all text "
+"you write in this field to lowercase and replace spaces and special "
+"characters with an underscore automatically."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:35
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:36
+msgid ""
+"You are required to choose one of the supported option types when creating a "
+"new option. Here is a list of the available option types. For more "
+"information about each type click the <code>Option Types</code> tab to the "
+"left."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:44
+msgid ""
+"Enter a detailed description for the users to read on the Theme Options "
+"page, HTML is allowed. This is also where you enter content for both the "
+"Textblock & Textblock Titled option types."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:47
+msgid ""
+"Click the \"Add Choice\" button to add an item to the choices array. This "
+"will only affect the following option types: Checkbox, Radio, Select & "
+"Select Image."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:50
+msgid ""
+"Click the \"Add Setting\" button found inside a newly created setting to add "
+"an item to the settings array. This will only affect the List Item type."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:52
+msgid "Standard"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:53
+msgid ""
+"Setting the standard value for your option only works for some option types. "
+"Those types are one that have a single string value saved to them and not an "
+"array of values."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:56
+msgid ""
+"Enter a numeric value for the number of rows in your textarea. This will "
+"only affect the following option types: CSS, Textarea, & Textarea Simple."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:59
+msgid ""
+"Add a comma separated list of post type like <code>post,page</code>. This "
+"will only affect the following option types: Custom Post Type Checkbox, & "
+"Custom Post Type Select. Below are the default post types available with "
+"WordPress and that are also compatible with OptionTree. You can also add "
+"your own custom <code>post_type</code>. At this time <code>any</code> does "
+"not seem to return results properly and is something I plan on looking into."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:68
+msgid ""
+"Add a comma separated list of any registered taxonomy like <code>category,"
+"post_tag</code>. This will only affect the following option types: Taxonomy "
+"Checkbox, & Taxonomy Select."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:70
+msgid "Min, Max, & Step"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:71
+msgid ""
+"Add a comma separated list of options in the following format <code>0,100,1</"
+"code> (slide from <code>0-100</code> in intervals of <code>1</code>). The "
+"three values represent the minimum, maximum, and step options and will only "
+"affect the Numeric Slider option type."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:73
+msgid "CSS Class"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:74
+msgid "Add and optional class to any option type."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:76
+msgid "Condition"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:77
+#, php-format
+msgid ""
+"Add a comma separated list (no spaces) of conditions in which the field will "
+"be visible, leave this setting empty to always show the field. In these "
+"examples, %s is a placeholder for your condition, which can be in the form "
+"of %s."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:79
+msgid "Operator"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:80
+#, php-format
+msgid ""
+"Choose the logical operator to compute the result of the conditions. Your "
+"options are %s and %s."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:130
+msgid "Input"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:136
+msgid "Output"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:160
+msgid ""
+"The List Item option type replaced the Slider option type and allows for a "
+"great deal of customization. You can add settings to the List Item and those "
+"settings will be displayed to the user when they add a new List Item. "
+"Typical use is for creating sliding content or blocks of code for custom "
+"layouts."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:165
+#, php-format
+msgid ""
+"Example filter to add new units to the Measurement option type. Added to %s."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:178
+msgid ""
+"Example filter to completely change the units in the Measurement option "
+"type. Added to <code>functions.php</code>."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:217
+msgid ""
+"This example executes the <code>ot_radio_images</code> filter on layout "
+"images attached to the <code>my_radio_images</code> field. Added to "
+"<code>functions.php</code>."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:249
+msgid ""
+"The Slider option type is technically deprecated. Use the List Item option "
+"type instead, as it's infinitely more customizable. Typical use is for "
+"creating sliding image content."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:255
+msgid ""
+"The Tab option type will break a section or metabox into tabbed content."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:275
+msgid ""
+"Example filters to alter the Textarea option type. Added to <code>functions."
+"php</code>."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:277
+msgid ""
+"This example keeps WordPress from executing the <code>wpautop</code> filter "
+"on the line breaks. The default is <code>true</code> which means it wraps "
+"line breaks with an HTML <code>p</code> tag."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:290
+msgid ""
+"This example keeps WordPress from executing the <code>media_buttons</code> "
+"filter on the textarea WYSIWYG. The default is <code>true</code> which means "
+"show the buttons."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:303
+msgid ""
+"This example keeps WordPress from executing the <code>tinymce</code> filter "
+"on the textarea WYSIWYG. The default is <code>true</code> which means show "
+"the tinymce."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:316
+msgid ""
+"This example alters the <code>quicktags</code> filter on the textarea "
+"WYSIWYG. The default is <code>array( 'buttons' => 'strong,em,link,block,del,"
+"ins,img,ul,ol,li,code,spell,close' )</code> which means show those "
+"quicktags. It also means you can filter in your own custom quicktags."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:334
+#, php-format
+msgid ""
+"This example tells WordPress to execute the %s filter on the line breaks. "
+"The default is %s which means it does not wraps line breaks with an HTML %s "
+"tag. Added to %s."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:356
+msgid ""
+"This example would filter <code>ot_recognized_font_families</code> to build "
+"your own font stack. Added to <code>functions.php</code>."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:406
+msgid ""
+"This function returns a value from the \"option_tree\" array of saved values "
+"or the default value supplied. The returned value would be mixed. Meaning it "
+"could be a string, integer, boolean, or array."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:408
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:458
+msgid "Usage"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:412
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:462
+msgid "Parameters"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:416
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:420
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:466
+msgid "string"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:416
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:466
+msgid "required"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:416
+msgid "Enter the options unique identifier."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:416
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:466
+msgid "Default:"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:420
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:470
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:474
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:478
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:482
+msgid "optional"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:420
+msgid ""
+"Enter a default return value. This is just incase the request returns null."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:450
+msgid ""
+"This function has been deprecated. That means it has been replaced by a new "
+"function or is no longer supported, and may be removed from future versions. "
+"All code that uses this function should be converted to use its replacement."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:452
+msgid "Use"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:452
+msgid "instead"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:456
+msgid ""
+"This function returns, or echos if asked, a value from the \"option_tree\" "
+"array of saved values."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:466
+msgid "Enter a unique Option Key to get a returned value or array."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:470
+msgid "array"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:470
+msgid "Used to cut down on database queries in template files."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:474
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:478
+msgid "boolean"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:474
+msgid "Echo the output."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:478
+msgid "Used to indicate the $item_id is an array of values."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:482
+msgid "integer"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:482
+msgid ""
+"Numeric offset key for the $item_id array, -1 will return all values (an "
+"array starts at 0)."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:510
+msgid ""
+"If you're using the plugin version of OptionTree it is highly recommended to "
+"include a <code>function_exists</code> check in your code, as described in "
+"the examples below. If you've integrated OptionTree directly into your "
+"themes root directory, you will <strong>not</strong> need to wrap your code "
+"with <code>function_exists</code>, as you're guaranteed to have the "
+"<code>ot_get_option()</code> function available."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:512
+msgid "String Examples"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:514
+msgid "Returns the value of <code>test_input</code>."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:520
+msgid ""
+"Returns the value of <code>test_input</code>, but also has a default value "
+"if it returns empty."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:526
+msgid "Array Examples"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:528
+msgid ""
+"Assigns the value of <code>navigation_ids</code> to the variable <code>$ids</"
+"code>. It then echos an unordered list of links (navigation) using "
+"<code>wp_list_pages()</code>."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:548
+msgid ""
+"The next two examples demonstrate how to use the <strong>Measurement</"
+"strong> option type. The Measurement option type is an array with two key/"
+"value pairs. The first is the value of measurement and the second is the "
+"unit of measurement."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:574
+msgid "This example displays a very basic slider loop."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:619
+msgid "It's Super Simple"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:621
+msgid ""
+"Layouts make your theme awesome! With theme options data that you can save/"
+"import/export you can package themes with different color variations, or "
+"make it easy to do A/B testing on text and so much more. Basically, you save "
+"a snapshot of your data as a layout."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:623
+msgid ""
+"Once you have created all your different layouts, or theme variations, you "
+"can save them to a separate text file for repackaging with your theme. "
+"Alternatively, you could just make different variations for yourself and "
+"change your theme with the click of a button, all without deleting your "
+"previous options data."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:625
+msgid ""
+" Adding a layout is ridiculously easy, follow these steps and you'll be on "
+"your way to having a WordPress super theme."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:627
+msgid "For Developers"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:629
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:658
+msgid "Creating a Layout"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:631
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:638
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:644
+msgid "Go to the <code>OptionTre->Settings->Layouts</code> tab."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:632
+msgid ""
+"Enter a name for your layout in the text field and hit \"Save Layouts\", "
+"you've created your first layout."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:633
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:662
+msgid "Adding a new layout is as easy as repeating the steps above."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:636
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:665
+msgid "Activating a Layout"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:639
+msgid "Click on the activate layout button in the actions list."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:642
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:671
+msgid "Deleting a Layout"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:645
+msgid "Click on the delete layout button in the actions list."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:648
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:676
+msgid "Edit Layout Data"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:650
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:660
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:667
+msgid "Go to the <code>Appearance->Theme Options</code> page."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:651
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:679
+msgid ""
+"Modify and save your theme options and the layout will be updated "
+"automatically."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:652
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:680
+msgid ""
+"Saving theme options data will update the currently active layout, so before "
+"you start saving make sure you want to modify the current layout."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:653
+msgid ""
+"If you want to edit a new layout, first create it then save your theme "
+"options."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:656
+msgid "End-Users Mode"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:661
+msgid ""
+"Enter a name for your layout in the text field and hit \"New Layout\", "
+"you've created your first layout."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:668
+msgid ""
+"Choose a layout from the select list and click the \"Activate Layout\" "
+"button."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:673
+msgid "End-Users mode does not allow deleting layouts."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:678
+msgid "Go to the <code>Appearance->Theme Options</code> tab."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:709
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:791
+msgid "How-to-guide"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:711
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree's "
+"built in Meta Box API. In the code below I'll show you a basic demo of how "
+"to create your very own custom meta box using any number of the option types "
+"you have at your disposal. If you would like to see some demo code, there is "
+"a directory named <code>theme-mode</code> inside the <code>assets</code> "
+"directory that contains a file named <code>demo-meta-boxes.php</code> you "
+"can reference."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:713
+msgid ""
+"It's important to note that Meta Boxes do not support WYSIWYG editors at "
+"this time and if you set one of your options to Textarea it will "
+"automatically revert to a Textarea Simple until a valid solution is found. "
+"WordPress released this statement regarding the wp_editor() function:"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:715
+msgid ""
+"Once instantiated, the WYSIWYG editor cannot be moved around in the DOM. "
+"What this means in practical terms, is that you cannot put it in meta-boxes "
+"that can be dragged and placed elsewhere on the page."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:717
+msgid "Create and include your custom meta boxes file."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:719
+msgid ""
+"Create a file and name it anything you want, maybe <code>meta-boxes.php</"
+"code>."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:720
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>meta-boxes.php</code> into which will help keep you "
+"file structure nice and tidy."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:721
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:821
+msgid "Add the following code to your <code>functions.php</code>."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:731
+msgid ""
+"Add a variation of the following code to your <code>meta-boxes.php</code>. "
+"You'll obviously need to fill it in with all your custom array values. It's "
+"important to note here that we use the <code>admin_init</code> filter "
+"because if you were to call the <code>ot_register_meta_box</code> function "
+"before OptionTree was loaded the sky would fall on your head."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:793
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree as "
+"a theme included module. In the code below I'll show you a basic demo of how "
+"to include the entire plugin as a module, which will allow you to have the "
+"most up-to-date version of OptionTree without ever needing to hack the core "
+"of the plugin. If you would like to see some demo code, there is a directory "
+"named <code>theme-mode</code> inside the <code>assets</code> directory that "
+"contains a file named <code>demo-theme-options.php</code> you can reference."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:795
+msgid "Step 1: Include the plugin & turn on theme mode."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:797
+#, php-format
+msgid "Download the latest version of %s and unarchive the %s directory."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:798
+#, php-format
+msgid ""
+"Put the %s directory in the root of your theme. For example, the server path "
+"would be %s."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:799
+#, php-format
+msgid "Add the following code to the beginning of your %s."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:813
+#, php-format
+msgid ""
+"For a list of all the OptionTree UI display filters refer to the %s file "
+"found in the %s directory of this plugin. This file is the starting point "
+"for developing themes with Theme Mode."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:815
+msgid ""
+"You now have OptionTree built into your theme and anytime an update is "
+"available replace the old version with the new one."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:817
+msgid "Step 2: Create Theme Options without using the UI Builder."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:819
+msgid ""
+"Create a file and name it anything you want, maybe <code>theme-options.php</"
+"code>, or use the built in file export to create it for you. Remember, you "
+"should always check the file for errors before including it in your theme."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:820
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>theme-options.php</code> into which will help keep "
+"you file structure nice and tidy."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:831
+msgid ""
+"Add a variation of the following code to your <code>theme-options.php</"
+"code>. You'll obviously need to fill it in with all your custom array values "
+"for contextual help (optional), sections (required), and settings (required)."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-docs-page.php:834
+msgid ""
+"The code below is a boilerplate to get your started. For a full list of the "
+"available option types click the \"Option Types\" tab above. Also a quick "
+"note, you don't need to put OptionTree in theme mode to manually create "
+"options but you will want to hide the docs and settings as each time you "
+"load the admin area the settings be written over with the code below if "
+"they've changed in any way. However, this ensures your settings do not get "
+"tampered with by the end-user."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:47
+msgid "Import demo content"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:49
+msgid ""
+"Importing demo content. Please do not close or refresh the page! This could "
+"take several minutes, depending on your internet connection."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:51
+msgid "Demo content successfully imported"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:115
+msgid "Grumpy wizards make toxic brew for the evil Queen and Jack."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:217
+msgid "Sorry, this function does not exist"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:305
+msgid "background-repeat"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:323
+msgid "background-attachment"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:342
+msgid "background-position"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:395
+msgid "background-size"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:412
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2608
+msgid "Add Media"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:486
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:540
+msgid "No Categories Found"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:535
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:796
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1338
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1449
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2052
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2167
+msgid "Choose One"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:744
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:802
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1400
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1455
+msgid "No Posts Found"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1066
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1757
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1922
+msgid "You can re-order with drag & drop, the order will update after saving."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1217
+msgid "On"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1221
+msgid "Off"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1289
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1344
+msgid "No Pages Found"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1677
+msgid "Choose Sidebar"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1682
+msgid "No Sidebars"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1790
+msgid "Facebook"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1795
+msgid "Twitter"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1800
+msgid "Google+"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1805
+msgid "LinkedIn"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1810
+msgid "Pinterest"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1815
+msgid "Youtube"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1820
+msgid "Dribbble"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1825
+msgid "Github"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1830
+msgid "Forrst"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1835
+msgid "Digg"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1840
+msgid "Delicious"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1845
+msgid "Tumblr"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1850
+msgid "Skype"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1855
+msgid "SoundCloud"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1860
+msgid "Vimeo"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1865
+msgid "Flickr"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:1870
+msgid "VK.com"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2003
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2057
+msgid "No Tags Found"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2115
+#: bw/lib/option-tree/includes/ot-functions-option-types.php:2172
+msgid "No Taxonomies Found"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:35
+msgid "Warning!"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:36
+#, php-format
+msgid ""
+"Go to the %s page if you want to save data, this page is for adding settings."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:37
+#, php-format
+msgid ""
+"If you're unsure or not completely positive that you should be editing these "
+"settings, you should read the %s first."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:38
+msgid ""
+"Things could break or be improperly displayed to the end-user if you do one "
+"of the following:"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:39
+msgid ""
+"Give two sections the same ID, give two settings the same ID, give two "
+"contextual help content areas the same ID, don't create any settings, or "
+"have a section at the end of the settings list."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:40
+msgid ""
+"You can create as many settings as your project requires and use them how "
+"you see fit. When you add a setting here, it will be available on the Theme "
+"Options page for use in your theme. To separate your settings into sections, "
+"click the \"Add Section\" button, fill in the input fields, and a new "
+"navigation menu item will be created."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:41
+msgid ""
+"All of the settings can be sorted and rearranged to your liking with Drag & "
+"Drop. Don't worry about the order in which you create your settings, you can "
+"always reorder them."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:92
+msgid "Add Section"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:99
+msgid "Contextual Help"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:103
+msgid "Contextual Help Sidebar"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:103
+msgid ""
+"If you decide to add contextual help to the Theme Option page, enter the "
+"optional \"Sidebar\" HTML here. This would be an extremely useful place to "
+"add links to your themes documentation or support forum. Only after you've "
+"added some content below will this display to the user."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:132
+msgid "Add Contextual Help Content"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:168
+msgid ""
+"This import method has been deprecated. That means it has been replaced by a "
+"new method and is no longer supported, and may be removed from future "
+"versions. All themes that use this import method should be converted to use "
+"its replacement below."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:170
+#, php-format
+msgid ""
+"If you were given a Theme Options XML file with a premium or free theme, "
+"locate it on your hard drive and upload that file by clicking the upload "
+"button. A popup window will appear, upload the XML file and click \"%s\". "
+"The file URL should be in the upload input, if it is click \"Import XML\"."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:173
+msgid "Import XML"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:189
+msgid "Add XML"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:226
+msgid ""
+"To import your Settings copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Settings"
+"\" button."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:229
+msgid "Import Settings"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:271
+msgid ""
+"Only after you've imported the Settings should you try and update your Theme "
+"Options."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:273
+msgid ""
+"To import your Theme Options copy and paste what appears to be a random "
+"string of alpha numeric characters into this textarea and press the \"Import "
+"Theme Options\" button."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:276
+msgid "Import Theme Options"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:318
+msgid ""
+"Only after you've imported the Settings should you try and update your "
+"Layouts."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:320
+msgid ""
+"To import your Layouts copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Layouts\" "
+"button. Keep in mind that when you import your layouts, the active layout's "
+"saved data will write over the current data set for your Theme Options."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:323
+msgid "Import Layouts"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:366
+#, php-format
+msgid ""
+"Export your Settings into a fully functional %s file. If you want to add "
+"your own custom %s text domain to the file, enter it into the text field "
+"before exporting. For more information on how to use this file read the "
+"documentation on %s. Remember, you should always check the file for errors "
+"before including it in your theme."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:375
+msgid "Export Settings File"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:405
+msgid ""
+"Export your Settings by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Settings</strong> textarea "
+"on another web site."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:441
+msgid ""
+"Export your Theme Options data by highlighting this text and doing a copy/"
+"paste into a blank .txt file. Then save the file for importing into another "
+"install of WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Theme Options</strong> "
+"textarea on another web site."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:477
+msgid ""
+"Export your Layouts by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Layouts</strong> textarea "
+"on another web site."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:519
+msgid ""
+"To add a new layout enter a unique lower case alphanumeric string (dashes "
+"allowed) in the text field and click \"Save Layouts\"."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:520
+msgid ""
+"As well, you can activate, remove, and drag & drop the order; all situations "
+"require you to click \"Save Layouts\" for the changes to be applied."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:521
+msgid ""
+"When you create a new layout it will become active and any changes made to "
+"the Theme Options will be applied to it. If you switch back to a different "
+"layout immediately after creating a new layout that new layout will have a "
+"snapshot of the current Theme Options data attached to it."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:522
+msgid ""
+"Visit <code>OptionTree->Documentation->Layouts Overview</code> to see a more "
+"in-depth description of what layouts are and how to use them."
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-functions-settings-page.php:559
+msgid "Save Layouts"
+msgstr ""
+
+#: bw/lib/option-tree/includes/ot-settings-api.php:356
+msgid "Reset Options"
+msgstr ""
+
+#: bw/lib/option-tree/ot-loader.php:21
+msgid ""
+"OptionTree is installed as a plugin and also embedded in your current theme. "
+"Please deactivate the plugin to load the theme dependent version of "
+"OptionTree, and remove this warning."
+msgstr ""
+
+#: bw/lib/shortcode-generator/option-element.php:72
+msgid "Remove Tab"
+msgstr ""
+
+#: bw/lib/shortcode-generator/option-element.php:72
+msgid "Add Tab"
+msgstr ""
+
+#: bw/lib/shortcode-generator/option-element.php:86
+msgid "Remove Bar"
+msgstr ""
+
+#: bw/lib/shortcode-generator/option-element.php:86
+msgid "Add Bar"
+msgstr ""
+
+#: bw/lib/shortcode-generator/option-element.php:99
+#: bw/lib/shortcode-generator/option-element.php:142
+msgid "Remove Upload"
+msgstr ""
+
+#: bw/lib/shortcode-generator/option-element.php:151
+msgid "Remove Client"
+msgstr ""
+
+#: bw/lib/shortcode-generator/option-element.php:151
+msgid "Add Client"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:10
+msgid "Columns"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:15
+msgid "One Half (1/2)"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:17
+#: bw/lib/shortcode-generator/shortcode-definitions.php:29
+#: bw/lib/shortcode-generator/shortcode-definitions.php:39
+#: bw/lib/shortcode-generator/shortcode-definitions.php:51
+#: bw/lib/shortcode-generator/shortcode-definitions.php:61
+#: bw/lib/shortcode-generator/shortcode-definitions.php:73
+#: bw/lib/shortcode-generator/shortcode-definitions.php:83
+msgid "Boxed Column"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:18
+#: bw/lib/shortcode-generator/shortcode-definitions.php:30
+#: bw/lib/shortcode-generator/shortcode-definitions.php:40
+#: bw/lib/shortcode-generator/shortcode-definitions.php:52
+#: bw/lib/shortcode-generator/shortcode-definitions.php:62
+#: bw/lib/shortcode-generator/shortcode-definitions.php:74
+#: bw/lib/shortcode-generator/shortcode-definitions.php:84
+msgid "Centered Text"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:19
+#: bw/lib/shortcode-generator/shortcode-definitions.php:31
+#: bw/lib/shortcode-generator/shortcode-definitions.php:41
+#: bw/lib/shortcode-generator/shortcode-definitions.php:53
+#: bw/lib/shortcode-generator/shortcode-definitions.php:63
+#: bw/lib/shortcode-generator/shortcode-definitions.php:75
+#: bw/lib/shortcode-generator/shortcode-definitions.php:85
+msgid "Last Column"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:19
+#: bw/lib/shortcode-generator/shortcode-definitions.php:31
+#: bw/lib/shortcode-generator/shortcode-definitions.php:41
+#: bw/lib/shortcode-generator/shortcode-definitions.php:53
+#: bw/lib/shortcode-generator/shortcode-definitions.php:63
+#: bw/lib/shortcode-generator/shortcode-definitions.php:75
+#: bw/lib/shortcode-generator/shortcode-definitions.php:85
+msgid ""
+"Check this for the last column in a row. i.e. when the columns add up to 1."
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:27
+msgid "One Third Column (1/3)"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:37
+msgid "Two Thirds Column (2/3)"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:49
+msgid "One Fourth Column (1/4)"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:59
+msgid "Three Fourths Column (3/4)"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:71
+msgid "One Sixth Column (1/6)"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:81
+msgid "Five Sixths Column (5/6)"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:104
+msgid "Text for title"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:111
+msgid "Dropcap"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:120
+msgid "Bar Graph"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:129
+msgid "Toggle"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:132
+msgid "Active"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:139
+msgid "Divider"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:141
+msgid "Show line?"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:148
+msgid "Button"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-definitions.php:167
+msgid "Open in a new tab?"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-generator.php:24
+msgid "Choose a shortcode"
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-generator.php:73
+msgid "Content: "
+msgstr ""
+
+#: bw/lib/shortcode-generator/shortcode-generator.php:81
+msgid "Add Shortcode"
+msgstr ""
+
+#: bw/lib/tabber-tabs-widget/tabber-tabs.php:69
+msgid "Tabber Tabs Widget Area"
+msgstr ""
+
+#: bw/lib/tabber-tabs-widget/tabber-tabs.php:71
+msgid ""
+"Build your tabbed area by placing widgets here.  !! IMPORTANT: DO NOT PLACE "
+"THE TABBER TABS WIDGET IN THIS AREA.  BAD THINGS WILL HAPPEN !! Place the "
+"TABBER TABS widget in another widget area. "
+msgstr ""
+
+#: bw/lib/tabber-tabs-widget/tabber-widget.php:16
+#: bw/lib/tabber-tabs-widget/tabber-widget.php:51
+msgid "Place items in the TABBER TABS WIDGET AREA and have them show up here."
+msgstr ""
+
+#: bw/lib/tabber-tabs-widget/tabber-widget.php:18
+msgid "Tabber Tabs Widget"
+msgstr ""
+
+#: bw/lib/tabber-tabs-widget/tabber-widget.php:46
+msgid "Tabber"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:209
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:213
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1638
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:544
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2165
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1174
+msgid "Private Repository"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1177
+msgid "Pre-Packaged"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1182
+msgid "WordPress Repository"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1185
+msgid "Required"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1185
+msgid "Recommended"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1188
+msgid "Not Installed"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1190
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1290
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1380
+#: woocommerce/myaccount/my-orders.php:34
+msgid "Status"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1508
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1931
+msgid "Install package not available."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1932
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1933
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1934
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1935
+msgid "Plugin install failed."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1936
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1947
+msgid "Plugin activation failed."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2061
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2062
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2062
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2071
+msgid "Show Details"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2062
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2071
+msgid "Hide Details"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2063
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2064
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2068
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2069
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2071
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2072
+msgid "All installations have been completed."
+msgstr ""
+
+#: bw/lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: bw/lib/wordpress-importer/parsers.php:42
+#: bw/lib/wordpress-importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: bw/lib/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: bw/lib/wordpress-importer/parsers.php:67
+#: bw/lib/wordpress-importer/parsers.php:72
+#: bw/lib/wordpress-importer/parsers.php:262
+#: bw/lib/wordpress-importer/parsers.php:453
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:133
+#: bw/lib/wordpress-importer/wordpress-importer.php:142
+#: bw/lib/wordpress-importer/wordpress-importer.php:193
+#: bw/lib/wordpress-importer/wordpress-importer.php:197
+#: bw/lib/wordpress-importer/wordpress-importer.php:206
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:134
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:177
+msgid "All done."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:177
+msgid "Have fun!"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:178
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:198
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:214
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:239
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:265
+msgid "Assign Authors"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:266
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:268
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:278
+msgid "Import Attachments"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:281
+msgid "Download and import file attachments"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:285
+msgid "Submit"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:298
+msgid "Import author:"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:309
+msgid "or create new user with login name:"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:312
+msgid "as a new user:"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:320
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:322
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:323
+msgid "- Select -"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:373
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:422
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:460
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:504
+#: bw/lib/wordpress-importer/wordpress-importer.php:630
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:526
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:547
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:602
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:748
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:755
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:818
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:831
+msgid "Invalid file type"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:875
+msgid "Remote server did not respond"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:881
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:888
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:893
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:899
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:998
+msgid "Import WordPress"
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:1005
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:1020
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: bw/lib/wordpress-importer/wordpress-importer.php:1021
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:75
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: comments.php:81
+msgid "Website"
+msgstr ""
+
+#: comments.php:87
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:88
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php:89
+msgid "canel"
+msgstr ""
+
+#: product-searchform.php:4
+msgid "Search for products .."
+msgstr ""
+
+#: search.php:16
+msgid "Looking for: "
+msgstr ""
+
+#: searchform.php:3
+msgid "Search .."
+msgstr ""
+
+#: sidebar.php:33
+msgid "Meta"
+msgstr ""
+
+#: single.php:28 templates/header-parallax.php:10
+msgid "on"
+msgstr ""
+
+#: templates/content/content-none.php:16
+msgid "Nothing found"
+msgstr ""
+
+#: templates/content/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: templates/content/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: templates/content/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: templates/content/content-page.php:21 templates/content/content.php:80
+msgid "Pages:"
+msgstr ""
+
+#: templates/the-breakdown.php:5
+msgid "The Breakdown"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:16
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:20
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:16
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:18
+msgid "Shipping and Handling"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:55
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:59
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:63
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:72 woocommerce/cart/cart-shipping.php:78
+msgid ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double "
+"check your address, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:93
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:16
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:21
+#: woocommerce/checkout/review-order.php:25
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:75
+#: woocommerce/checkout/review-order.php:79
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:87
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:26 woocommerce/checkout/form-pay.php:19
+#: woocommerce/checkout/review-order.php:18
+#: woocommerce/emails/admin-new-order.php:22
+#: woocommerce/emails/customer-completed-order.php:23
+#: woocommerce/emails/customer-invoice.php:27
+#: woocommerce/emails/customer-note.php:27
+#: woocommerce/emails/customer-processing-order.php:23
+#: woocommerce/order/order-details.php:20
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:27 woocommerce/emails/admin-new-order.php:24
+#: woocommerce/emails/customer-completed-order.php:25
+#: woocommerce/emails/customer-invoice.php:29
+#: woocommerce/emails/customer-note.php:29
+#: woocommerce/emails/customer-processing-order.php:25
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28 woocommerce/emails/admin-new-order.php:23
+#: woocommerce/emails/customer-completed-order.php:24
+#: woocommerce/emails/customer-invoice.php:28
+#: woocommerce/emails/customer-note.php:28
+#: woocommerce/emails/customer-processing-order.php:24
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/checkout/review-order.php:19
+#: woocommerce/myaccount/my-orders.php:35
+#: woocommerce/order/order-details.php:21
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:68
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:102
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:119
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:119 woocommerce/checkout/form-coupon.php:26
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:119 woocommerce/checkout/form-coupon.php:30
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:126
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:126 woocommerce/cart/mini-cart.php:65
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:51
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:59
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:64
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:28
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:45
+#: woocommerce/cart/shipping-calculator.php:51
+#: woocommerce/cart/shipping-calculator.php:63
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:52
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:72
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:80
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:85
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:16
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:20
+msgid "Return To Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:15
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:19
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:38
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:49
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:19
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:15
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:20
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:21
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:54
+msgid "Payment"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:89
+msgid "Pay for order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:29
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:55
+#: woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:150
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:163
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:163
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:170
+msgid "Place order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:179
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28 woocommerce/myaccount/my-orders.php:71
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+#: woocommerce/emails/customer-completed-order.php:18
+#: woocommerce/emails/customer-invoice.php:22
+#: woocommerce/emails/customer-note.php:22
+#: woocommerce/emails/customer-processing-order.php:18
+msgid "Order:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:13
+#: woocommerce/emails/plain/admin-new-order.php:13
+#, php-format
+msgid "You have received an order from %s. Their order is as follows:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:17
+#, php-format
+msgid "Order: %s"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:50
+#: woocommerce/emails/customer-completed-order.php:51
+#: woocommerce/emails/customer-note.php:55
+#: woocommerce/emails/customer-processing-order.php:51
+#: woocommerce/emails/plain/admin-new-order.php:39
+#: woocommerce/order/order-details.php:97
+msgid "Customer details"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:53
+#: woocommerce/emails/customer-completed-order.php:54
+#: woocommerce/emails/customer-note.php:58
+#: woocommerce/emails/customer-processing-order.php:54
+#: woocommerce/emails/plain/admin-new-order.php:42
+#: woocommerce/emails/plain/customer-completed-order.php:41
+#: woocommerce/emails/plain/customer-note.php:49
+#: woocommerce/emails/plain/customer-processing-order.php:41
+#: woocommerce/order/order-details.php:101
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:56
+#: woocommerce/emails/customer-completed-order.php:57
+#: woocommerce/emails/customer-note.php:61
+#: woocommerce/emails/customer-processing-order.php:57
+#: woocommerce/emails/plain/admin-new-order.php:45
+#: woocommerce/emails/plain/customer-completed-order.php:44
+#: woocommerce/emails/plain/customer-note.php:52
+#: woocommerce/emails/plain/customer-processing-order.php:44
+msgid "Tel:"
+msgstr ""
+
+#: woocommerce/emails/customer-completed-order.php:14
+#: woocommerce/emails/plain/customer-completed-order.php:13
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: woocommerce/emails/customer-invoice.php:16
+#: woocommerce/emails/plain/customer-invoice.php:14
+#, php-format
+msgid ""
+"An order has been created for you on %s. To pay for this order please use "
+"the following link: %s"
+msgstr ""
+
+#: woocommerce/emails/customer-invoice.php:16
+msgid "pay"
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:14
+#: woocommerce/emails/plain/customer-new-account.php:13
+#, php-format
+msgid ""
+"Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:18
+#, php-format
+msgid "Your password has been automatically generated: <strong>%s</strong>"
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:22
+#: woocommerce/emails/plain/customer-new-account.php:18
+#, php-format
+msgid ""
+"You can access your account area to view your orders and change your "
+"password here: %s."
+msgstr ""
+
+#: woocommerce/emails/customer-note.php:14
+#: woocommerce/emails/plain/customer-note.php:13
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: woocommerce/emails/customer-note.php:18
+#: woocommerce/emails/plain/customer-note.php:21
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: woocommerce/emails/customer-processing-order.php:14
+#: woocommerce/emails/plain/customer-processing-order.php:13
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:14
+#: woocommerce/emails/plain/customer-reset-password.php:13
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:15
+#: woocommerce/emails/plain/customer-reset-password.php:15
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:16
+#: woocommerce/emails/plain/customer-reset-password.php:16
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:17
+#: woocommerce/emails/plain/customer-reset-password.php:17
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:20
+msgid "Click here to reset your password"
+msgstr ""
+
+#: woocommerce/emails/email-addresses.php:18
+#: woocommerce/emails/plain/email-addresses.php:12
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/emails/email-addresses.php:28
+#: woocommerce/emails/plain/email-addresses.php:17
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/emails/email-order-items.php:25
+msgid "Product Image"
+msgstr ""
+
+#: woocommerce/emails/email-order-items.php:46
+#: woocommerce/emails/plain/email-order-items.php:46
+#, php-format
+msgid "Download %d"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:19
+#: woocommerce/emails/plain/customer-completed-order.php:19
+#: woocommerce/emails/plain/customer-invoice.php:20
+#: woocommerce/emails/plain/customer-note.php:27
+#: woocommerce/emails/plain/customer-processing-order.php:19
+#, php-format
+msgid "Order number: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:20
+#, php-format
+msgid "Order link: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:21
+#: woocommerce/emails/plain/customer-completed-order.php:20
+#: woocommerce/emails/plain/customer-invoice.php:21
+#: woocommerce/emails/plain/customer-note.php:28
+#: woocommerce/emails/plain/customer-processing-order.php:20
+#, php-format
+msgid "Order date: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:21
+msgid "jS F Y"
+msgstr ""
+
+#: woocommerce/emails/plain/customer-completed-order.php:38
+#: woocommerce/emails/plain/customer-note.php:46
+#: woocommerce/emails/plain/customer-processing-order.php:38
+msgid "Your details"
+msgstr ""
+
+#: woocommerce/emails/plain/customer-new-account.php:16
+#, php-format
+msgid "Your password is <strong>%s</strong>."
+msgstr ""
+
+#: woocommerce/emails/plain/email-order-items.php:32
+#, php-format
+msgid "Quantity: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/email-order-items.php:35
+#, php-format
+msgid "Cost: %s"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:63
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:91 woocommerce/global/breadcrumb.php:189
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:147
+msgid "Error 404"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:193
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:198
+msgid "Author:"
+msgstr ""
+
+#: woocommerce/global/form-login.php:22
+#: woocommerce/myaccount/form-lost-password.php:24
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:35
+#: woocommerce/myaccount/form-login.php:25
+#: woocommerce/myaccount/form-login.php:44
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:38
+#: woocommerce/myaccount/form-login.php:46
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:42
+#: woocommerce/myaccount/form-login.php:50
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:12
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:14
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: woocommerce/loop/orderby.php:21
+msgid "Default sorting"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:22
+msgid "Sort by popularity"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:23
+msgid "Sort by average rating"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Sort by newness"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:25
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:26
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:24
+msgid "Prev"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:25
+msgid "Next"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d–%2$d of %3$d results"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:16
+#: woocommerce/single-product/sale-flash.php:16
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:40
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:48
+msgid "Add Payment Method"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:20
+#: woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:24
+#: woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:29
+#: woocommerce/myaccount/form-lost-password.php:46
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:20
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:24
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:28
+#: woocommerce/myaccount/form-login.php:79
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:32
+msgid "Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:36
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:41
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:14
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#: woocommerce/order/order-details.php:118
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:14
+#: woocommerce/myaccount/my-address.php:20
+#: woocommerce/order/order-details.php:133
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:38
+msgid "Save Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:32
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:63
+#: woocommerce/myaccount/form-login.php:100
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:72
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:93
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:46
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:24
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:18
+msgid "Available downloads"
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:27
+#, php-format
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:33
+msgid "Date"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:62
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:78
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:84
+msgid "View"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:12
+#, php-format
+msgid ""
+"Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:16 woocommerce/order/tracking.php:31
+msgid "Order Updates"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:22 woocommerce/order/tracking.php:37
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:17
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+msgid "Billing Email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:23
+msgid "Track"
+msgstr ""
+
+#: woocommerce/order/order-details.php:16
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:66
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: woocommerce/order/order-details.php:102
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details.php:122
+#: woocommerce/order/order-details.php:137
+#: woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/tracking.php:18
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/order/tracking.php:18
+msgid "ago"
+msgstr ""
+
+#: woocommerce/order/tracking.php:20
+msgid "and was completed"
+msgstr ""
+
+#: woocommerce/order/tracking.php:20
+msgid " ago"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:21
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:23
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:44
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+msgid "Submit review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:73
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:103
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:27
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:29
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:23
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:25
+#: woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:28
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""
